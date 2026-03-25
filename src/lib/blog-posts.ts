@@ -529,6 +529,137 @@ export const blogPosts: BlogPost[] = [
 <p>Noble Land Co. buys land across all 100 North Carolina counties. We're familiar with NC's closing process, PUV recapture, timber value considerations, and coastal flood zone issues — so we can make fair, informed offers and close without surprises. <a href="/we-buy-land-north-carolina">See how we buy North Carolina land</a>, or <a href="/contact">request your free cash offer today</a>.</p>
 `,
   },
+  {
+    slug: "how-to-sell-land-in-texas",
+    title: "How to Sell Land in Texas: A Step-by-Step Guide",
+    metaTitle: "How to Sell Land in Texas — Step-by-Step Guide | Noble Land Co.",
+    metaDescription:
+      "Learn how to sell land in Texas quickly and without the hassle of traditional listings. Get a fair cash offer and close in as little as 14 days — no commissions, no waiting.",
+    date: "2026-03-25",
+    state: "Texas",
+    excerpt:
+      "Texas is the second-largest state in the country — but that doesn't make land easy to sell. Here's a plain-English guide to your options and how to avoid the delays that trap most Texas landowners.",
+    readingTime: "8 min read",
+    primaryKeyword: "how to sell land in Texas",
+    content: `
+<h1>How to Sell Land in Texas: A Step-by-Step Guide</h1>
+
+<p>If you're trying to figure out <strong>how to sell land in Texas</strong>, you've probably already run into the same wall most landowners hit: vacant land is slow to sell, expensive to hold, and often ignored by traditional real estate agents who'd rather focus on houses. Texas is the second-largest state in the country, with 254 counties and millions of acres of rural, agricultural, and undeveloped land — but that sheer scale makes selling harder, not easier. This guide covers every real option so you can make the right call for your situation.</p>
+
+<h2>Why Texas Property Taxes Make Holding Land Painful</h2>
+
+<p>Texas has no state income tax — which sounds great until you see your property tax bill. To make up for lost income tax revenue, Texas relies heavily on property taxes, and the rates are among the highest in the nation. The statewide average effective property tax rate runs between <strong>1.6% and 1.8%</strong> of assessed value per year. On a $100,000 parcel, that's $1,600–$1,800 annually — every year you hold it, whether the land produces income or not.</p>
+
+<p>For landowners who inherited a parcel they've never visited, bought acreage decades ago that never appreciated the way they hoped, or simply have no use for a rural lot scattered across one of Texas's 254 counties, those tax bills add up fast. Many sellers we talk to are paying $3,000–$8,000 a year in taxes on land they'd just as soon be rid of. That's a compelling reason to sell sooner rather than later.</p>
+
+<h2>Why Selling Texas Land the Traditional Way Is Slow</h2>
+
+<p>The conventional advice — hire a real estate agent, list on the MLS, wait for offers — works reasonably well for houses. For vacant land, it falls apart:</p>
+
+<ul>
+  <li><strong>Limited buyer pool.</strong> Most homebuyers aren't in the market for raw land. You're competing for a niche audience of investors, ranchers, hunters, and developers — a much smaller group.</li>
+  <li><strong>Financing is harder to get.</strong> Lenders treat land loans differently. Buyers typically need larger down payments, pay higher interest rates, and face shorter loan terms. Many land buyers simply can't get bank financing, which eliminates a huge portion of potential buyers.</li>
+  <li><strong>Agent specialization is rare.</strong> Not every Texas real estate agent knows how to price, market, or negotiate vacant land. Listing with a general residential agent can mean months of no traction.</li>
+  <li><strong>Long days on market.</strong> Rural and undeveloped Texas land routinely sits on the market 12–24 months before closing — if it closes at all. Remote parcels without utilities, road access, or development potential can languish indefinitely.</li>
+  <li><strong>Commission costs.</strong> Traditional agents charge 5–10% in commissions. On a $50,000 land sale, that's $2,500–$5,000 off the top — before closing costs.</li>
+</ul>
+
+<p>None of this means you can't sell traditionally. But you should go in with realistic expectations.</p>
+
+<h2>Your Options for Selling Land in Texas</h2>
+
+<h3>Option 1: List with a Real Estate Agent</h3>
+
+<p>If your property is well-located — near a growing metro like Austin, Dallas-Fort Worth, San Antonio, or Houston — and you have 12–24 months to wait, listing with an experienced Texas land agent can maximize your sale price. Look for agents who specialize in rural or vacant land, not just residential homes. Expect to pay 5–10% in commissions and plan for a long timeline.</p>
+
+<p><strong>Best if:</strong> Your land is in a high-demand area, you have time, and you want maximum market exposure.</p>
+
+<h3>Option 2: For Sale By Owner (FSBO)</h3>
+
+<p>You can sell Texas land without an agent. You save the commission, but you take on all the marketing, negotiation, contract preparation, and closing coordination yourself. Texas has specific deed and title requirements, and getting them wrong can cloud the title or delay closing. FSBO is viable — but it's work.</p>
+
+<p><strong>Best if:</strong> You have real estate experience, time to dedicate, and a buyer already in mind.</p>
+
+<h3>Option 3: Land Auctions</h3>
+
+<p>Both in-person and online auctions (like LandWatch, Bid4Assets, or local Texas auction houses) can move property relatively quickly. The catch: auction companies charge seller fees, and you may accept a price well below retail if bidder interest is low on auction day. There's no guaranteed minimum unless you set a reserve — which can scare off bidders.</p>
+
+<p><strong>Best if:</strong> You want speed and can accept price uncertainty.</p>
+
+<h3>Option 4: Sell to a Direct Land Buyer</h3>
+
+<p>The fastest and simplest path is selling directly to a company that buys Texas land for cash. No listing, no agent commissions, no waiting on bank financing. The offer is typically below full retail market value — but the trade-off is a guaranteed, fast close (often 14–21 days) with zero fees or commissions deducted. For landowners who want out of a carrying-cost situation without the grind of a traditional sale, this is often the right answer.</p>
+
+<p><strong>Best if:</strong> You want certainty, speed, and zero hassle.</p>
+
+<p><a href="/we-buy-land-texas">See how Noble Land Co. buys Texas land</a> — we purchase parcels in all 254 counties, no matter the size, condition, or location.</p>
+
+<h2>Step-by-Step: How to Sell Land in Texas Fast</h2>
+
+<h3>Step 1: Know What You Own</h3>
+
+<p>Before anything else, get clear on your property details. Pull your last property tax statement — it will have your parcel number, county, legal description, and acreage. Also note:</p>
+<ul>
+  <li>Whether the property has road access (deeded easement or direct frontage)</li>
+  <li>Any utilities present or nearby (water, electric, septic)</li>
+  <li>Whether there are any liens, back taxes, or title issues</li>
+  <li>Whether the property is inside city limits, ETJ (extraterritorial jurisdiction), or fully rural</li>
+</ul>
+
+<h3>Step 2: Check for Back Taxes</h3>
+
+<p>Texas counties assess property taxes annually, and delinquent taxes accrue 12% annual interest plus additional penalties. If you've inherited land or lost track of payments, there may be outstanding balances. Check with the county tax assessor-collector's office or visit their website. Back taxes don't have to stop a sale — they're typically paid out of closing proceeds — but you need to know the number.</p>
+
+<h3>Step 3: Get a Realistic Value Estimate</h3>
+
+<p>Texas land values swing wildly depending on location, size, and access. West Texas desert land may be worth $200–$500 per acre. Hill Country and ranch land near Fredericksburg or Kerrville can fetch $5,000–$15,000+ per acre. East Texas timberland, Gulf Coast acreage near development, or parcels near the major metros carry their own pricing dynamics. Search recent comparable sales on LandWatch, Lands of Texas, or Zillow — or ask a local land buyer or appraiser for a no-obligation valuation.</p>
+
+<h3>Step 4: Decide on Your Sales Method</h3>
+
+<p>Based on your timeline and how much effort you want to put in, choose the approach that fits. If you're paying $2,000+ a year in property taxes on land you're not using, every month you delay the sale costs real money. The math often favors a faster close, even at a slightly lower price.</p>
+
+<h3>Step 5: Handle the Title and Close</h3>
+
+<p>Texas real estate closings typically go through a title company. The title company runs a title search, prepares the deed, handles escrow, pays off any outstanding liens or taxes, and records the new deed with the county courthouse. In a direct buyer transaction, the buyer usually arranges and pays for title services. You show up, sign the deed, and receive your funds — usually by wire or check.</p>
+
+<h2>What Affects Texas Land Value?</h2>
+
+<p>Understanding value drivers helps you price realistically and avoid holding out for a number that doesn't match the market:</p>
+
+<ul>
+  <li><strong>Location and proximity to growth.</strong> Land near DFW, Austin, San Antonio, or Houston commands a premium. Panhandle or far West Texas land moves at a fraction of those prices.</li>
+  <li><strong>Road access.</strong> A landlocked parcel — one with no deeded access to a public road — is significantly harder to sell and worth considerably less. Road frontage adds value.</li>
+  <li><strong>Water.</strong> Surface water (ponds, creeks, rivers) and groundwater rights are major value drivers in Texas, particularly for agricultural and ranch land.</li>
+  <li><strong>Utilities.</strong> Electric, water, and septic availability — or the cost to bring them in — directly affect buyer demand and price.</li>
+  <li><strong>Mineral rights.</strong> Texas has a long history of oil and gas production. Whether mineral rights are included (or severed) in the sale can significantly affect value, especially in West Texas, the Permian Basin, or the Eagle Ford Shale area.</li>
+  <li><strong>Agricultural exemptions.</strong> Land enrolled in an ag or wildlife exemption receives a dramatically reduced property tax assessment. Buyers value this. If your land has an exemption in place, that's a selling point — highlight it.</li>
+  <li><strong>Size and shape.</strong> Larger parcels often sell at a lower per-acre price than smaller ones. Long, narrow, or oddly shaped parcels are harder to develop or farm, reducing demand.</li>
+</ul>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>How long does it take to sell land in Texas?</h3>
+<p>Through a traditional listing, rural and vacant Texas land commonly sits on the market 12–24 months, particularly for remote or hard-to-access parcels. Working with a direct buyer like Noble Land Co. typically results in a closing in 14–21 days, sometimes faster for straightforward transactions.</p>
+
+<h3>Do I need a real estate attorney to sell land in Texas?</h3>
+<p>Texas does not require a real estate attorney for land sales, but it's not a bad idea for complex transactions — especially those involving estates, title disputes, or mineral rights. Most standard land closings are handled entirely by a title company, which manages deed preparation, title search, and recording.</p>
+
+<h3>What happens to delinquent property taxes when I sell?</h3>
+<p>Delinquent Texas property taxes are a lien on the property and must be paid at or before closing. The title company calculates the total owed — principal, interest, and penalties — and pays it from your sale proceeds automatically. You receive the net amount after taxes and any other liens are satisfied.</p>
+
+<h3>What is an agricultural exemption, and do I lose it when I sell?</h3>
+<p>Texas ag and wildlife exemptions reduce assessed value to productive-use value rather than market value, resulting in much lower property taxes. The exemption stays with the land, not the owner — but the new buyer must apply and qualify to keep it active. If the land doesn't qualify under the new owner, taxes will reset to full market value.</p>
+
+<h3>Will I owe capital gains tax when I sell Texas land?</h3>
+<p>If you sell for more than your cost basis, the profit is generally subject to federal capital gains tax. Texas has no state capital gains tax. Inherited land often receives a stepped-up basis equal to fair market value at the date of death, which can dramatically reduce — or eliminate — your taxable gain. Always consult a CPA for advice specific to your situation.</p>
+
+<h2>Ready to Sell Your Texas Land?</h2>
+
+<p>Now that you understand <strong>how to sell land in Texas</strong>, it comes down to your priorities. If maximizing sale price is worth waiting 12–24 months and paying agent commissions, the traditional route may be right for you. If you'd rather stop paying property taxes, skip the listing process, and close fast — a direct cash buyer makes more sense.</p>
+
+<p>Noble Land Co. buys land across all 254 Texas counties. We understand Texas's regional markets, ag exemptions, mineral rights considerations, and title process — so we can make fair, informed offers and close without surprises. <a href="/we-buy-land-texas">Learn more about how we buy Texas land</a>, or <a href="/contact">get your free cash offer today</a>. No obligation, no commissions, no hassle.</p>
+`,
+  },
 ];
 
 export function getBlogPost(slug: string): BlogPost | undefined {

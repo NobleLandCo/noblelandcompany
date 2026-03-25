@@ -16,12 +16,10 @@ import { CheckCircle, AlertCircle, Loader2 } from "lucide-react";
 
 // ============================================================
 // Web3Forms Integration
-// To receive form submissions at info@noblelandcompany.com:
-// 1. Go to https://web3forms.com
-// 2. Enter your email and get a free Access Key
-// 3. Replace "YOUR_WEB3FORMS_ACCESS_KEY" below with your key
+// Set NEXT_PUBLIC_WEB3FORMS_KEY in your .env.local file
+// Get a free key at https://web3forms.com
 // ============================================================
-const WEB3FORMS_ACCESS_KEY = "d4c73289-ea50-4353-9c86-a61b1f76daea";
+const WEB3FORMS_ACCESS_KEY = process.env.NEXT_PUBLIC_WEB3FORMS_KEY ?? "";
 
 export default function ContactForm() {
   const [formState, setFormState] = useState<"idle" | "loading" | "success" | "error">("idle");

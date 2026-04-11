@@ -26,13 +26,13 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-2 group">
             <Image
               src="/nlc-logo-80.png"
-              alt="Noble Land Co."
-              width={40}
-              height={40}
+              alt="Noble Land Co. LLC"
+              width={52}
+              height={52}
               className="rounded-full"
             />
-            <span className="font-bold text-lg text-[#2d5016] tracking-tight">
-              Noble Land Co.
+            <span className="font-bold text-lg text-black tracking-tight">
+              Noble Land Co. LLC
             </span>
           </Link>
 

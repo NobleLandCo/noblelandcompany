@@ -2245,7 +2245,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Whether you want to list traditionally or get a fast cash offer, Noble Land Co. can help. We buy hunting and recreational land across Wisconsin — and we understand what makes Wisconsin land valuable.</p>
 
-<p><a href="/we-buy-land-wisconsin">Learn more about how we buy Wisconsin land</a>, or <a href="/contact">request your free cash offer today</a>. No obligation, no agent fees, no waiting on financing.</p>
+<p><a href="/sell-land-wisconsin">Learn more about how we buy Wisconsin land</a>, or <a href="/contact">request your free cash offer today</a>. No obligation, no agent fees, no waiting on financing.</p>
 `,
   },
   {
@@ -2376,7 +2376,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land across all 95 Tennessee counties. If you want to know what a fair cash offer looks like for your specific parcel, there's no cost or obligation to find out.</p>
 
-<p><a href="/we-buy-land-tennessee">Learn more about how we buy Tennessee land</a>, or <a href="/contact">request your free cash offer today</a>. We'll give you a real number — and you decide what makes sense for your situation.</p>
+<p><a href="/sell-land-fast-tennessee">See how we buy Tennessee land</a>, or <a href="/contact">request your free cash offer today</a>. We'll give you a real number — and you decide what makes sense for your situation.</p>
 `,
   },
   // ── ROUND 5: COUNTY-SPECIFIC (2026-04-02) ──────────────────────────────────
@@ -3113,7 +3113,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys Oklahoma land from estates, often before probate fully closes when timing allows. We work with executors and attorneys on straightforward transactions — no listings, no commissions, just a direct cash offer and a clean close.</p>
 
-<p>If you have land sitting in an Oklahoma estate and want to know what it's worth and how quickly it could be sold, <a href="/contact">reach out for a free, no-obligation cash offer</a>. We'll tell you exactly where things stand and what the process would look like for your specific property.</p>
+<p>If you have land sitting in an Oklahoma estate and want to know what it's worth and how quickly it could be sold, <a href="/we-buy-land-oklahoma">learn more about how we buy Oklahoma land</a>, or <a href="/contact">reach out for a free, no-obligation cash offer</a>. We'll tell you exactly where things stand and what the process would look like for your specific property.</p>
 `,
   },
   {
@@ -3300,7 +3300,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys Wisconsin recreational land — wooded acreage, cabin lots, hunting parcels, and undeveloped land across Vilas, Oneida, Forest, Sawyer, Polk, and dozens of other counties. We close fast, pay cash, and handle the title process.</p>
 
-<p><a href="/we-buy-land-wisconsin">Learn how we buy Wisconsin land</a> or <a href="/contact">request a free, no-obligation cash offer</a>. No listing fees, no agent commissions, no financing contingencies. Just a real offer you can decide on.</p>
+<p><a href="/sell-land-wisconsin">Learn how we buy Wisconsin land</a> or <a href="/contact">request a free, no-obligation cash offer</a>. No listing fees, no agent commissions, no financing contingencies. Just a real offer you can decide on.</p>
 `,
   },
   {
@@ -3385,7 +3385,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land throughout Tennessee — rural acreage, inherited parcels, wooded lots, undeveloped land in growth corridors, and hard-to-sell remote properties. We give you a real offer, not a lowball number, and we explain exactly how we arrived at it.</p>
 
-<p><a href="/we-buy-land-tennessee">Learn how we buy Tennessee land</a> or <a href="/contact">request your free cash offer today</a>. No obligation, no pressure — just a number you can make a real decision with.</p>
+<p><a href="/sell-land-fast-tennessee">Learn how we buy Tennessee land</a> or <a href="/contact">request your free cash offer today</a>. No obligation, no pressure — just a number you can make a real decision with.</p>
 `,
   },
   {
@@ -4062,7 +4062,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys inherited land throughout Oklahoma — from rural eastern parcels to agricultural land in the Panhandle. We understand heirs' property, we know how to navigate back taxes at closing, and we move fast so you can stop paying taxes on land you don't need.</p>
 
-<p><a href="/contact">Contact us today</a> for a free, no-obligation cash offer on your inherited Oklahoma land. We'll research the parcel, give you a real number, and let you decide — no pressure, no fees.</p>
+<p><a href="/we-buy-land-oklahoma">Learn more about how we buy Oklahoma land</a>, or <a href="/contact">contact us today</a> for a free, no-obligation cash offer on your inherited Oklahoma land. We'll research the parcel, give you a real number, and let you decide — no pressure, no fees.</p>
 `,
   },
   {
@@ -4156,7 +4156,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys Kentucky farmland throughout the state — row crop ground in western Kentucky, cattle pasture in central Kentucky, recreational land in the east, and development-adjacent parcels in the north. We do our own county-level comparable research so our offers reflect actual market conditions.</p>
 
-<p><a href="/contact">Contact us today</a> for a free, no-obligation cash offer on your Kentucky farmland. Find out what your land is actually worth — and decide whether a fast close makes sense for your situation.</p>
+<p><a href="/we-buy-land-kentucky">Learn more about how we buy Kentucky land</a>, or <a href="/contact">contact us today</a> for a free, no-obligation cash offer on your Kentucky farmland. Find out what your land is actually worth — and decide whether a fast close makes sense for your situation.</p>
 `,
   },
   {
@@ -4242,7 +4242,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys rural land throughout Wisconsin — north woods hunting parcels, agricultural ground in the central counties, and recreational land in between. We do genuine county-level research, handle back tax situations, and can close fast without requiring you to manage a listing or coordinate multiple buyers.</p>
 
-<p><a href="/contact">Contact us today</a> for a free, no-obligation cash offer on your Wisconsin rural land. Find out what it's worth — and decide whether a fast, clean close makes sense for your situation.</p>
+<p><a href="/sell-land-wisconsin">Learn more about how we buy Wisconsin land</a>, or <a href="/contact">contact us today</a> for a free, no-obligation cash offer on your Wisconsin rural land. Find out what it's worth — and decide whether a fast, clean close makes sense for your situation.</p>
 `,
   },
   {
@@ -4327,7 +4327,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys Tennessee land throughout the state. We work with out-of-state owners routinely — everything from the initial offer to the final wire transfer happens without you needing to fly to Tennessee. We handle the research, coordinate with the title company, and structure the closing to be as simple as possible for you.</p>
 
-<p><a href="/contact">Contact us today</a> for a free, no-obligation cash offer on your Tennessee land. Tell us what you own, and we'll tell you what it's worth — and how quickly we can close.</p>
+<p><a href="/sell-land-fast-tennessee">Learn more about how we buy Tennessee land</a>, or <a href="/contact">contact us today</a> for a free, no-obligation cash offer on your Tennessee land. Tell us what you own, and we'll tell you what it's worth — and how quickly we can close.</p>
 `,
   },
   {
@@ -4427,7 +4427,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land throughout western North Carolina — mountain parcels in Buncombe, recreational land in Transylvania and Haywood, agricultural acreage in Madison and Yancey, and everything in between. We understand PUV rollback, heirs' property, and the regional market dynamics that national buyers miss.</p>
 
-<p><a href="/contact">Contact us today</a> for a free, no-obligation cash offer on your western North Carolina land. We'll give you a real number based on real comparable sales — and you decide whether a fast close makes sense.</p>
+<p><a href="/we-buy-land-north-carolina">Learn more about how we buy North Carolina land</a>, or <a href="/contact">contact us today</a> for a free, no-obligation cash offer on your western North Carolina land. We'll give you a real number based on real comparable sales — and you decide whether a fast close makes sense.</p>
 `,
   },
   {
@@ -4531,7 +4531,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land across all 77 Oklahoma counties — rural acres, inherited parcels, tax-burdened lots, and everything in between. We've worked with hundreds of landowners who were tired of paying property taxes on land that brought them nothing but a bill.</p>
 
-<p><a href="/contact">Get your free cash offer today</a>. We'll give you a number based on real comparable sales, and you decide if a fast close makes sense. No agents, no commissions, no pressure — just a straightforward way to turn a liability into cash.</p>
+<p><a href="/we-buy-land-oklahoma">Learn more about how we buy Oklahoma land</a>, or <a href="/contact">get your free cash offer today</a>. We'll give you a number based on real comparable sales, and you decide if a fast close makes sense. No agents, no commissions, no pressure — just a straightforward way to turn a liability into cash.</p>
 `,
   },
   {
@@ -4629,7 +4629,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land across Kentucky — Bluegrass farmland, eastern mountain parcels, recreational acreage near Daniel Boone and Red River Gorge, southern border counties catching Nashville overflow. We understand the regional dynamics that national buyers miss, and we price based on real comparable sales, not algorithms.</p>
 
-<p><a href="/contact">Get your free cash offer today</a>. No agents, no commissions, no months of waiting. Just a fair price, a fast close, and cash in hand while the Kentucky market is working in your favor.</p>
+<p><a href="/we-buy-land-kentucky">Learn more about how we buy Kentucky land</a>, or <a href="/contact">get your free cash offer today</a>. No agents, no commissions, no months of waiting. Just a fair price, a fast close, and cash in hand while the Kentucky market is working in your favor.</p>
 `,
   },
   {
@@ -4716,7 +4716,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys lakefront and lake-adjacent land throughout Wisconsin — Northwoods lots on Vilas and Oneida county lakes, central Wisconsin parcels near the Chain O' Lakes and Waupaca area, and southern Wisconsin land near the Geneva and Oconomowoc lake systems. We understand shoreland zoning, septic constraints, and the seasonal dynamics that drive waterfront pricing.</p>
 
-<p><a href="/contact">Get your free cash offer today</a>. No commissions, no listing, no waiting for the perfect summer buyer. Just a fair offer based on real market data — and a fast close that puts cash in your hands.</p>
+<p><a href="/sell-land-wisconsin">Learn more about how we buy Wisconsin land</a>, or <a href="/contact">get your free cash offer today</a>. No commissions, no listing, no waiting for the perfect summer buyer. Just a fair offer based on real market data — and a fast close that puts cash in your hands.</p>
 `,
   },
   {
@@ -4806,7 +4806,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land across Tennessee — from the mountains of East Tennessee to the rolling hills of Middle Tennessee to the flats of West Tennessee. We handle everything: title search, deed preparation, closing costs, and recording. You sign the documents and collect your check.</p>
 
-<p><a href="/contact">Get your free cash offer today</a>. No agents, no commissions, no waiting. We'll give you a real number based on actual comparable sales — and if the offer works for you, we can close in as little as two weeks.</p>
+<p><a href="/sell-land-fast-tennessee">Learn more about how we buy Tennessee land</a>, or <a href="/contact">get your free cash offer today</a>. No agents, no commissions, no waiting. We'll give you a real number based on actual comparable sales — and if the offer works for you, we can close in as little as two weeks.</p>
 `,
   },
   {
@@ -4896,7 +4896,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land throughout central and eastern North Carolina — Johnston, Harnett, Chatham, Granville, Wilson, Nash, and beyond. We understand PUV rollback, development corridor dynamics, and the local market forces that national buyers overlook.</p>
 
-<p><a href="/contact">Contact us today</a> for a free, no-obligation cash offer. We'll give you a real number based on recent comparable sales — and you decide whether a fast, commission-free close makes sense for your situation.</p>
+<p><a href="/we-buy-land-north-carolina">Learn more about how we buy North Carolina land</a>, or <a href="/contact">contact us today</a> for a free, no-obligation cash offer. We'll give you a real number based on recent comparable sales — and you decide whether a fast, commission-free close makes sense for your situation.</p>
 `,
   },
   {
@@ -4989,7 +4989,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. works regularly with landowners navigating estate, divorce, and inherited property situations across Oklahoma. We understand that these transactions carry emotional and legal complexity — and we move at whatever pace your situation requires.</p>
 
-<p><a href="/contact">Request a free cash offer today</a>. We'll evaluate your property, give you a real number, and work with you and your attorney to structure a closing that works for everyone involved. No pressure, no commissions, and no timeline you didn't agree to.</p>
+<p><a href="/we-buy-land-oklahoma">Learn more about how we buy Oklahoma land</a>, or <a href="/contact">request a free cash offer today</a>. We'll evaluate your property, give you a real number, and work with you and your attorney to structure a closing that works for everyone involved. No pressure, no commissions, and no timeline you didn't agree to.</p>
 `,
   },
   {
@@ -5076,7 +5076,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land across Kentucky — farmland, timber tracts, recreational ground, and rural residential parcels. We buy in all counties, including remote and landlocked properties that traditional buyers can't finance.</p>
 
-<p><a href="/contact">Get a free cash offer today</a>. We'll evaluate your parcel, give you a real number based on current market conditions, and close on your timeline — often in two weeks or less. No agent fees, no waiting, no contingencies.</p>
+<p><a href="/we-buy-land-kentucky">Learn more about how we buy Kentucky land</a>, or <a href="/contact">get a free cash offer today</a>. We'll evaluate your parcel, give you a real number based on current market conditions, and close on your timeline — often in two weeks or less. No agent fees, no waiting, no contingencies.</p>
 `,
   },
   {
@@ -5171,7 +5171,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys rural and recreational land across Wisconsin — hunting tracts, timber parcels, lake-adjacent properties, and mixed-use rural land in all counties. We understand the Wisconsin hunting market and what recreational buyers are paying right now.</p>
 
-<p><a href="/contact">Request a free cash offer today</a>. We'll evaluate your property, give you a straightforward number, and close on your schedule. No agents, no commissions, no waiting for the right buyer to show up.</p>
+<p><a href="/sell-land-wisconsin">Learn more about how we buy Wisconsin land</a>, or <a href="/contact">request a free cash offer today</a>. We'll evaluate your property, give you a straightforward number, and close on your schedule. No agents, no commissions, no waiting for the right buyer to show up.</p>
 `,
   },
   {
@@ -5254,7 +5254,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. specializes in Tennessee land purchases including landlocked parcels, inherited properties, heirs' property situations, and estates. We work with out-of-state owners regularly and understand the remote closing process inside and out.</p>
 
-<p><a href="/contact">Request a free cash offer today</a>. Tell us about your property — including any access or title complications — and we'll give you an honest evaluation and a real number. No agents, no commissions, and no requirement to visit Tennessee to close.</p>
+<p><a href="/sell-land-fast-tennessee">Learn more about how we buy Tennessee land</a>, or <a href="/contact">request a free cash offer today</a>. Tell us about your property — including any access or title complications — and we'll give you an honest evaluation and a real number. No agents, no commissions, and no requirement to visit Tennessee to close.</p>
 `,
   },
   {
@@ -5336,7 +5336,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land throughout the Charlotte metro region and surrounding counties. If you own rural land in the path of Charlotte's growth, we'd like to make you an offer.</p>
 
-<p><a href="/contact">Request a free cash offer today</a>. No commissions, no agents, no waiting. We'll evaluate your parcel, give you a real number, and close on your timeline.</p>
+<p><a href="/we-buy-land-north-carolina">Learn more about how we buy North Carolina land</a>, or <a href="/contact">request a free cash offer today</a>. No commissions, no agents, no waiting. We'll evaluate your parcel, give you a real number, and close on your timeline.</p>
 `,
   },
   {
@@ -5435,7 +5435,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land throughout Oklahoma — from the panhandle to the Ouachita Mountains. We work with out-of-state owners all the time, and we've built our process specifically so you never have to travel. Tell us about your parcel, and we'll research it, make you a fair cash offer, and handle everything from there.</p>
 
-<p><a href="/contact">Get a free cash offer today</a>. No commissions, no agents, no flights required.</p>
+<p><a href="/we-buy-land-oklahoma">Learn more about how we buy Oklahoma land</a>, or <a href="/contact">get a free cash offer today</a>. No commissions, no agents, no flights required.</p>
 `,
   },
   {
@@ -5533,7 +5533,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys farmland and rural acreage throughout Kentucky. We work with estates, personal representatives, and heir groups regularly, and we understand the probate process. If you've inherited farmland and want to understand your options — even if you're not ready to sell today — reach out for a free, no-obligation assessment.</p>
 
-<p><a href="/contact">Request a free cash offer</a>. We close fast, pay cash, and handle all closing costs.</p>
+<p><a href="/we-buy-land-kentucky">Learn more about how we buy Kentucky land</a>, or <a href="/contact">request a free cash offer</a>. We close fast, pay cash, and handle all closing costs.</p>
 `,
   },
   {
@@ -5621,7 +5621,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys raw, off-grid, and remote land throughout Wisconsin. Tell us about your parcel and we'll research it, give you a real offer, and close on your timeline.</p>
 
-<p><a href="/contact">Request a free cash offer today</a> — no commissions, no agents, no improvements required.</p>
+<p><a href="/sell-land-wisconsin">Learn more about how we buy Wisconsin land</a>, or <a href="/contact">request a free cash offer today</a> — no commissions, no agents, no improvements required.</p>
 `,
   },
   {
@@ -5710,7 +5710,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land across Tennessee — from the mountains of East Tennessee to the farmland of the Western Highland Rim. If you're navigating a divorce and need to sell land fast, we'll give you a free, no-obligation cash offer and close on your timeline.</p>
 
-<p><a href="/contact">Request a cash offer today</a>. No commissions. No agents. No waiting.</p>
+<p><a href="/sell-land-fast-tennessee">Learn more about how we buy Tennessee land</a>, or <a href="/contact">request a cash offer today</a>. No commissions. No agents. No waiting.</p>
 `,
   },
   {
@@ -5799,7 +5799,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land throughout North Carolina — coastal plain, Piedmont, foothills, and mountain-adjacent counties. If you're an absentee investor ready for a clean exit, we'll research your parcel, give you a fair cash offer, and close on your schedule.</p>
 
-<p><a href="/contact">Request a free cash offer today</a>. Fully remote. No commissions. No agents. Close in weeks, not months.</p>
+<p><a href="/we-buy-land-north-carolina">Learn more about how we buy North Carolina land</a>, or <a href="/contact">request a free cash offer today</a>. Fully remote. No commissions. No agents. Close in weeks, not months.</p>
 `,
   },
   {
@@ -5893,7 +5893,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Inherited Oklahoma land doesn't have to be a burden. If you've confirmed ownership, understand the carrying costs, and want a clean, simple exit — Noble Land Co. is ready to help. We buy land throughout Oklahoma, handle the research, and make the process easy for out-of-state sellers.</p>
 
-<p><a href="/contact">Get a free cash offer on your inherited Oklahoma land today</a>. No pressure, no commissions, no need to visit the property.</p>
+<p><a href="/we-buy-land-oklahoma">Learn more about how we buy Oklahoma land</a>, or <a href="/contact">get a free cash offer on your inherited Oklahoma land today</a>. No pressure, no commissions, no need to visit the property.</p>
 `,
   },
   {
@@ -5975,7 +5975,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys agricultural and rural land throughout Kentucky — tillable ground, pasture, timber parcels, and mixed-use agricultural properties. We make fair cash offers and close on your schedule, with no agents and no surprises.</p>
 
-<p><a href="/contact">Request a free cash offer on your Kentucky agricultural land today</a> and find out what your land is worth to a direct buyer.</p>
+<p><a href="/we-buy-land-kentucky">Learn more about how we buy Kentucky land</a>, or <a href="/contact">request a free cash offer on your Kentucky agricultural land today</a> and find out what your land is worth to a direct buyer.</p>
 `,
   },
   {
@@ -6075,7 +6075,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>A direct cash buyer is the fastest and most straightforward path. Noble Land Co. buys recreational land throughout Wisconsin — Northwoods parcels, hunting ground, timber land, and rural retreats. We make a fair cash offer, handle the title research, and close on your schedule. No commissions, no listings, no waiting.</p>
 
-<p><a href="/contact">Get a free cash offer on your Wisconsin recreational land today</a>. Find out what it's worth to a buyer who's ready to close — and whether the numbers make selling the right move for you.</p>
+<p><a href="/sell-land-wisconsin">Learn more about how we buy Wisconsin land</a>, or <a href="/contact">get a free cash offer on your Wisconsin recreational land today</a>. Find out what it's worth to a buyer who's ready to close — and whether the numbers make selling the right move for you.</p>
 `,
   },
   {
@@ -6162,7 +6162,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land throughout Tennessee — from the Plateau to the Bottoms, Middle Tennessee hunting ground to East Tennessee mountain parcels. We make fair cash offers, move fast, and close on your schedule.</p>
 
-<p><a href="/contact">Request a free cash offer on your Tennessee land today</a>. Close this spring, not next year.</p>
+<p><a href="/sell-land-fast-tennessee">Learn more about how we buy Tennessee land</a>, or <a href="/contact">request a free cash offer on your Tennessee land today</a>. Close this spring, not next year.</p>
 `,
   },
   {
@@ -6250,7 +6250,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys rural land throughout North Carolina's Triad region and surrounding counties. If you own land in Davidson, Randolph, Forsyth, Guilford, Alamance, Rowan, or neighboring counties — and you're considering an exit — we'll research your parcel, make a fair cash offer, and close on your schedule. No agents, no commissions, no waiting for the perfect retail buyer.</p>
 
-<p><a href="/contact">Request a free cash offer on your NC Triad area land today</a> and find out what your land is worth to a buyer who's ready to close now.</p>
+<p><a href="/we-buy-land-north-carolina">Learn more about how we buy North Carolina land</a>, or <a href="/contact">request a free cash offer on your NC Triad area land today</a> and find out what your land is worth to a buyer who's ready to close now.</p>
 `,
   },
   {
@@ -6348,7 +6348,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys land throughout Oklahoma — rural tracts, inherited parcels, tax-delinquent properties — with cash offers and fast closings. We're not here to take advantage of a tough situation. We're here to give you a real exit before the county's timeline becomes your problem.</p>
 
-<p><strong><a href="/contact">Request a free cash offer today</a></strong> and find out what your Oklahoma land is worth to a buyer who's ready to close now.</p>
+<p><a href="/we-buy-land-oklahoma">Learn more about how we buy Oklahoma land</a>, or <strong><a href="/contact">request a free cash offer today</a></strong> and find out what your Oklahoma land is worth to a buyer who's ready to close now.</p>
 `,
   },
   {
@@ -6443,7 +6443,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys Kentucky land directly, paying cash and closing fast. We handle the research, work with local title companies, and structure the transaction to fit your timeline.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Kentucky land today</a></strong> and find out what your property is worth to a motivated buyer who's ready to close.</p>
+<p><a href="/we-buy-land-kentucky">Learn more about how we buy Kentucky land</a>, or <strong><a href="/contact">request a free cash offer on your Kentucky land today</a></strong> and find out what your property is worth to a motivated buyer who's ready to close.</p>
 `,
   },
   {
@@ -6525,7 +6525,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>Noble Land Co. buys wooded and recreational land throughout Wisconsin — from Northwoods timber tracts to hunting parcels in Price, Taylor, Rusk, and Sawyer counties. If you own wooded land in Wisconsin and you're ready to exit, don't wait until the fall rush. The best cash offers go to sellers who move while buyer demand is building — not after it peaks.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Wisconsin wooded land today</a></strong> and get a fair number from a buyer who knows the Northwoods market and is ready to close fast.</p>
+<p><a href="/sell-land-wisconsin">Learn more about how we buy Wisconsin land</a>, or <strong><a href="/contact">request a free cash offer on your Wisconsin wooded land today</a></strong> and get a fair number from a buyer who knows the Northwoods market and is ready to close fast.</p>
 `,
   },
   {
@@ -6613,7 +6613,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>The estate process doesn't have to drag. A cash buyer can be the fastest path from inherited land to cleared estate — and money in the hands of the heirs who deserve it.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Tennessee estate land today</a></strong> and find out how quickly we can move.</p>
+<p><a href="/sell-land-fast-tennessee">Learn more about how we buy Tennessee land</a>, or <strong><a href="/contact">request a free cash offer on your Tennessee estate land today</a></strong> and find out how quickly we can move.</p>
 `,
   },
   {
@@ -6699,7 +6699,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>You don't need to list your land on the MLS, wait for a buyer to secure financing, or navigate months of showings and negotiations. We do the research, make a fair offer, and close clean.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Wilmington-area NC land today</a></strong> and find out what a motivated, ready buyer will pay for your property in today's market.</p>
+<p><a href="/we-buy-land-north-carolina">Learn more about how we buy North Carolina land</a>, or <strong><a href="/contact">request a free cash offer on your Wilmington-area NC land today</a></strong> and find out what a motivated, ready buyer will pay for your property in today's market.</p>
 `,
   },
   {
@@ -6796,7 +6796,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>A cash offer gives you a real number, a real timeline, and a real exit. The rest of your life is waiting on the other side of this transaction.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Oklahoma land today</a></strong> — we'll get back to you within 24 hours with a number you and your co-owner can work with.</p>
+<p><a href="/we-buy-land-oklahoma">Learn more about how we buy Oklahoma land</a>, or <strong><a href="/contact">request a free cash offer on your Oklahoma land today</a></strong> — we'll get back to you within 24 hours with a number you and your co-owner can work with.</p>
 `,
   },
   {
@@ -6871,7 +6871,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>For Eastern Kentucky landowners who are ready to convert their land into cash and move on — whether you've held the parcel for two years or two decades — we're actively buying in Leslie, Perry, Harlan, Breathitt, and surrounding counties right now.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Kentucky land today</a></strong> — and find out what a motivated, informed buyer will pay in the current market.</p>
+<p><a href="/we-buy-land-kentucky">Learn more about how we buy Kentucky land</a>, or <strong><a href="/contact">request a free cash offer on your Kentucky land today</a></strong> — and find out what a motivated, informed buyer will pay in the current market.</p>
 `,
   },
   {
@@ -6953,7 +6953,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>We factor all of this into our offer. The process is straightforward: share your parcel details with us, and we'll do the research and come back with a real number.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Wisconsin waterfront land today</a></strong> — we're buying year-round and can close on your schedule.</p>
+<p><a href="/sell-land-wisconsin">Learn more about how we buy Wisconsin land</a>, or <strong><a href="/contact">request a free cash offer on your Wisconsin waterfront land today</a></strong> — we're buying year-round and can close on your schedule.</p>
 `,
   },
   {
@@ -7024,7 +7024,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>If you're a landowner in Middle Tennessee with back HOA fees or a lien on a vacant parcel, the best decision is usually to act sooner rather than later. A cash offer gives you a real number and a real exit before the encumbrances eat the remaining equity.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Tennessee land today</a></strong> — we'll research the encumbrances and give you a straight answer on what we can pay.</p>
+<p><a href="/sell-land-fast-tennessee">Learn more about how we buy Tennessee land</a>, or <strong><a href="/contact">request a free cash offer on your Tennessee land today</a></strong> — we'll research the encumbrances and give you a straight answer on what we can pay.</p>
 `,
   },
   {
@@ -7098,7 +7098,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>For landowners who are ready to capitalize on the current demand window without managing a months-long listing process, a direct cash sale is often the smartest move. You get certainty, speed, and a clean exit — right now, while the Research Triangle spillover is actively driving buyer interest into your county.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Piedmont NC land today</a></strong> — we'll evaluate your parcel and come back with a real number within 24 hours.</p>
+<p><a href="/we-buy-land-north-carolina">Learn more about how we buy North Carolina land</a>, or <strong><a href="/contact">request a free cash offer on your Piedmont NC land today</a></strong> — we'll evaluate your parcel and come back with a real number within 24 hours.</p>
 `,
   },
   {
@@ -7188,7 +7188,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>If you've been sitting on Oklahoma land — whether it's 10 acres in Logan County or 160 acres in Garfield County — and you've been told (or assumed) that the mineral rights situation makes it unsellable, we'd encourage you to get a second opinion. The surface has value. Let's talk about it.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Oklahoma land today</a></strong> — mineral rights complexity included. We'll evaluate your surface estate and come back with a real number within 24 hours.</p>
+<p><a href="/we-buy-land-oklahoma">Learn more about how we buy Oklahoma land</a>, or <strong><a href="/contact">request a free cash offer on your Oklahoma land today</a></strong> — mineral rights complexity included. We'll evaluate your surface estate and come back with a real number within 24 hours.</p>
 `,
   },
   {
@@ -7261,7 +7261,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>If that's your situation in Breathitt County, Ballard County, Henderson County along the Ohio, or anywhere else in Kentucky where water defines the land, there's a cleaner solution. A direct cash sale bypasses the entire financing and flood-insurance problem. You get a real offer, a real close date, and you're done.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Kentucky land today</a></strong> — flood zone, wetland designation, or any other complication included. We'll review your parcel and respond within 24 hours.</p>
+<p><a href="/we-buy-land-kentucky">Learn more about how we buy Kentucky land</a>, or <strong><a href="/contact">request a free cash offer on your Kentucky land today</a></strong> — flood zone, wetland designation, or any other complication included. We'll review your parcel and respond within 24 hours.</p>
 `,
   },
   {
@@ -7335,7 +7335,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>We don't require all heirs to be enthusiastic — just agreeable to sign. And we can often provide an offer that makes the math clear enough to bring holdouts around.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Wisconsin land today</a></strong> — multi-heir situations, estate complications, and sibling disputes included. We'll review the property and respond within 24 hours.</p>
+<p><a href="/sell-land-wisconsin">Learn more about how we buy Wisconsin land</a>, or <strong><a href="/contact">request a free cash offer on your Wisconsin land today</a></strong> — multi-heir situations, estate complications, and sibling disputes included. We'll review the property and respond within 24 hours.</p>
 `,
   },
   {
@@ -7410,7 +7410,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>If you're looking at a move date that's weeks — not months — away, and you have Tennessee land you need to resolve, let's have a conversation.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your Tennessee land today</a></strong> — relocation timelines respected, remote closings standard. We'll come back with a real number within 24 hours.</p>
+<p><a href="/sell-land-fast-tennessee">Learn more about how we buy Tennessee land</a>, or <strong><a href="/contact">request a free cash offer on your Tennessee land today</a></strong> — relocation timelines respected, remote closings standard. We'll come back with a real number within 24 hours.</p>
 `,
   },
   {
@@ -7485,7 +7485,7 @@ export const blogPosts: BlogPost[] = [
 
 <p>We work with military sellers throughout North Carolina, from the Fort Liberty corridor in Cumberland and Hoke counties to the Camp Lejeune area in Onslow and Jones counties, and across the state. We understand the timeline pressure and we move accordingly.</p>
 
-<p><strong><a href="/contact">Request a free cash offer on your North Carolina land today</a></strong> — PCS timelines respected, remote closings standard. We'll respond within 24 hours so you can plan your move with one less thing on your plate.</p>
+<p><a href="/we-buy-land-north-carolina">Learn more about how we buy North Carolina land</a>, or <strong><a href="/contact">request a free cash offer on your North Carolina land today</a></strong> — PCS timelines respected, remote closings standard. We'll respond within 24 hours so you can plan your move with one less thing on your plate.</p>
 `,
   },
   {

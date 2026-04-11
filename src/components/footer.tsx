@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { TreePine, Mail, Phone } from "lucide-react";
+import { Mail } from "lucide-react";
+import Image from "next/image";
 import { Separator } from "@/components/ui/separator";
 
 export default function Footer() {
@@ -12,9 +13,13 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <Link href="/" className="flex items-center gap-2 mb-4 group">
-              <div className="w-9 h-9 rounded-full bg-white/15 flex items-center justify-center">
-                <TreePine className="w-5 h-5 text-white" />
-              </div>
+              <Image
+                src="/nlc-logo.jpg"
+                alt="Noble Land Co."
+                width={40}
+                height={40}
+                className="rounded-full"
+              />
               <span className="font-bold text-lg tracking-tight">Noble Land Co.</span>
             </Link>
             <p className="text-white/70 text-sm leading-relaxed max-w-xs">

@@ -3,7 +3,8 @@
 import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Menu, X, TreePine } from "lucide-react";
+import { Menu, X } from "lucide-react";
+import Image from "next/image";
 
 const navLinks = [
   { href: "/", label: "Home" },
@@ -18,14 +19,18 @@ export default function Header() {
   const pathname = usePathname();
 
   return (
-    <header className="sticky top-0 z-50 w-full bg-white/95 backdrop-blur-sm border-b border-[#e2ddd4] shadow-sm">
+    <header className="sticky top-0 z-50 w-full bg-[#faf8f3]/95 backdrop-blur-sm border-b border-[#e2ddd4] shadow-sm">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 group">
-            <div className="w-9 h-9 rounded-full bg-[#2d5016] flex items-center justify-center group-hover:bg-[#3d6b1e] transition-colors">
-              <TreePine className="w-5 h-5 text-white" />
-            </div>
+            <Image
+              src="/nlc-logo.jpg"
+              alt="Noble Land Co."
+              width={40}
+              height={40}
+              className="rounded-full"
+            />
             <span className="font-bold text-lg text-[#2d5016] tracking-tight">
               Noble Land Co.
             </span>

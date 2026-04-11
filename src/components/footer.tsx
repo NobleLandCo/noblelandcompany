@@ -14,7 +14,7 @@ export default function Footer() {
           <div>
             <Link href="/" className="flex items-center gap-2 mb-4 group">
               <Image
-                src="/nlc-logo.jpg"
+                src="/nlc-logo-80.png"
                 alt="Noble Land Co."
                 width={40}
                 height={40}

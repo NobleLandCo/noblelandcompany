@@ -12,6 +12,446 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
+  // ── DAILY BATCH: Apr 26 ───────────────────────────────────────────────────
+  {
+    slug: "sell-land-wagoner-county-oklahoma-divorce",
+    title: "Selling Co-Owned Land in Wagoner County, Oklahoma During a Divorce",
+    metaTitle: "Wagoner County Oklahoma Divorce Land Sale | Noble Land Co.",
+    metaDescription: "Dealing with jointly owned land in Wagoner County, Oklahoma during a divorce? Learn how a cash buyer can simplify the partition and help both parties move on fast.",
+    date: "2026-04-26",
+    state: "Oklahoma",
+    excerpt: "Co-owned land during a divorce is rarely simple. In Wagoner County, where values have climbed near Tulsa's east metro edge, the stakes are real — and the fastest resolution is usually a clean cash sale.",
+    readingTime: "7 min read",
+    primaryKeyword: "sell land Wagoner County Oklahoma divorce",
+    content: `
+<h1>Selling Co-Owned Land in Wagoner County, Oklahoma During a Divorce</h1>
+
+<p>Wagoner County sits at the eastern edge of the Tulsa metro — close enough to Broken Arrow and Coweta that its land has seen consistent appreciation, yet rural enough that raw land is still common. If you and a spouse, business partner, or family member jointly own a parcel there and a divorce or separation is now in the picture, you're facing one of the more complicated real estate scenarios that exists: selling land you both own but no longer agree on.</p>
+
+<p>The good news is that there's a path through it, and it doesn't have to be as painful as the rest of the process.</p>
+
+<h2>Why Jointly Owned Land Gets Complicated in Oklahoma Divorces</h2>
+
+<p>Oklahoma is an <strong>equitable distribution state</strong>. Courts divide marital property in a manner they consider fair — which is not automatically 50/50, though it often lands near that. Land is marital property when it was acquired during the marriage (with some exceptions for gifts and inheritance). That means Wagoner County land purchased together, or land one spouse bought during the marriage using marital funds, is on the table.</p>
+
+<p>The complication isn't usually the legal framework — it's the logistics:</p>
+
+<ul>
+  <li>One party wants to sell immediately; the other wants to keep the land or hold out for a higher price</li>
+  <li>One party has stopped communicating and the property is in limbo</li>
+  <li>Attorneys are billing by the hour while the land sits unresolved</li>
+  <li>Both parties need liquidity but can't agree on anything</li>
+</ul>
+
+<p>All of this is common. It doesn't mean the situation is unsolvable.</p>
+
+<h2>The Partition Option</h2>
+
+<p>If both co-owners genuinely cannot agree to sell, Oklahoma law allows either party to file a <strong>partition action</strong> in district court. The court will either physically divide the land (partition in kind) or order it sold and the proceeds split (partition by sale). Courts almost always choose partition by sale for raw vacant land, since dividing a single parcel into meaningful halves is rarely practical.</p>
+
+<p>Partition by sale through the court means a court-appointed commissioner sells the property — often at a public auction that doesn't maximize price. Both parties pay legal fees. The timeline can stretch 12–18 months in Wagoner County's district court.</p>
+
+<p>Most people who understand this choose to reach a private agreement before it gets that far.</p>
+
+<h2>Wagoner County Land Values: What's at Stake</h2>
+
+<p>Wagoner County's proximity to Tulsa's east metro growth corridor has pushed land values meaningfully higher over the past decade. Coweta, Broken Arrow, and the surrounding area have seen residential and commercial development spill east, and Wagoner County farmland and rural residential parcels have benefited. Buyers from Tulsa actively look in Wagoner County for:</p>
+
+<ul>
+  <li>Rural residential lots for custom homes</li>
+  <li>Small agricultural tracts for hobby farming or horse properties</li>
+  <li>Investment land in the path of eastern Tulsa metro growth</li>
+</ul>
+
+<p>A parcel in Wagoner County today is likely worth more than it was five years ago. That makes it worth resolving quickly — before the legal costs and time erode the equity you've both built.</p>
+
+<h2>How a Cash Sale Works for Divorcing Co-Owners</h2>
+
+<p>Noble Land Company buys Wagoner County land from co-owners in all situations — divorce, estate, partnership disputes. Here's how the process typically works when there are two sellers who both need to sign off:</p>
+
+<ol>
+  <li><strong>We research the parcel</strong> — County records, deed history, GIS maps, and recent comp sales give us what we need to make an offer within 24–48 hours.</li>
+  <li><strong>We present one offer to both parties</strong> — There's no negotiating one spouse against the other. We make a single research-backed cash offer for the land.</li>
+  <li><strong>Both parties sign the purchase agreement</strong> — This can happen remotely. Attorneys for both sides can review the agreement independently.</li>
+  <li><strong>Closing happens on a timeline that works for the divorce proceedings</strong> — We're flexible on close date. Sometimes parties want to close before the divorce is final to reduce outstanding assets; sometimes they wait until the decree has been entered.</li>
+  <li><strong>Proceeds are split at closing</strong> — The title company or closing attorney disburses funds according to the agreed split — whether that's 50/50 or a different allocation directed by the court or mutual agreement.</li>
+</ol>
+
+<p>The whole process avoids the courtroom, avoids auction, and gets both parties liquid quickly.</p>
+
+<h2>What If the Other Party Won't Respond?</h2>
+
+<p>This is more common than most people expect. If your co-owner has gone silent — not responding to calls, mail, or attorney letters — you're not necessarily stuck forever, but your options narrow to two: wait and hope they re-engage, or file for partition. We recommend talking to a family law or real estate attorney in Wagoner County if you're in this situation, because the timeline for partition and the costs involved vary by case.</p>
+
+<p>If your co-owner is willing to sell but you can't agree on price, a cash offer from Noble Land Company often breaks the deadlock. A firm written offer gives both parties a concrete starting point and eliminates the uncertainty of "what could we get" that keeps negotiations stuck.</p>
+
+<h2>Oklahoma Closing Process</h2>
+
+<p>Oklahoma doesn't require an attorney for land closings — a licensed title company can handle the transaction. Noble Land Company covers all closing costs and works with a title company familiar with co-ownership transfers. Remote closings are available. Most Wagoner County closings complete in 14–21 days from an accepted offer.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>Can we sell before the divorce is finalized?</h3>
+<p>Yes. The proceeds become part of the marital estate to be divided, but selling before the decree can simplify the division significantly. Talk to your attorney about timing in your specific case.</p>
+
+<h3>What if the land has liens or back taxes?</h3>
+<p>We buy land with liens and back taxes. Outstanding balances are typically paid from proceeds at closing through the title company. We account for known encumbrances in our offer.</p>
+
+<h3>Do both of us have to agree to sell?</h3>
+<p>Yes — both co-owners must sign to transfer clear title. If one party refuses, partition action is the legal path. We can only proceed when both parties are willing to sell.</p>
+
+<h2>Get a Cash Offer on Your Wagoner County Land</h2>
+
+<p>Noble Land Company buys Oklahoma land statewide, including co-owned parcels in Wagoner County where divorce or partnership issues have made selling complicated. <a href="/we-buy-land-oklahoma">See how we buy Oklahoma land</a>, or <a href="/contact">request a free cash offer for your Wagoner County parcel</a>. We'll respond within 48 hours with a research-backed number — one offer, no drama, fast close.</p>
+`,
+  },
+  {
+    slug: "sell-land-nelson-county-kentucky-undervalued-bourbon",
+    title: "Nelson County, Kentucky Land Is Undervalued — And the Window Won't Stay Open",
+    metaTitle: "Nelson County Kentucky Land for Sale — Undervalued Market | Noble Land Co.",
+    metaDescription: "Nelson County, Kentucky sits in the heart of bourbon country with land prices still lagging behind surrounding markets. Learn why now is the time to sell and get a fast cash offer.",
+    date: "2026-04-26",
+    state: "Kentucky",
+    excerpt: "Bardstown calls itself the Bourbon Capital of the World — and the tourism and industrial investment following it is real. Yet Nelson County land prices still trail neighboring markets. That gap is the window.",
+    readingTime: "7 min read",
+    primaryKeyword: "sell land Nelson County Kentucky",
+    content: `
+<h1>Nelson County, Kentucky Land Is Undervalued — And the Window Won't Stay Open</h1>
+
+<p>Bardstown, Kentucky markets itself as the Bourbon Capital of the World. It's not just a catchy slogan — Nelson County sits at the center of Kentucky's bourbon distilling heritage, home to Jim Beam's distilling operations in neighboring Bullitt County, Heaven Hill, Willett, and Barton 1792. Tourism to the Bourbon Trail has grown every year. Industrial investment has followed. And yet, if you look at vacant land prices in Nelson County and compare them to what similar acreage fetches in Bullitt County to the north or Hardin County to the west, there's a gap that doesn't quite add up.</p>
+
+<p>If you own vacant land in Nelson County, that gap represents your window.</p>
+
+<h2>The Regional Price Gap — By the Numbers</h2>
+
+<p>Land values in Kentucky are deeply county-dependent. Bullitt County land — just north of Nelson along I-65 — sells for a meaningful premium because it's in Louisville's commuter shadow. Hardin County land near Elizabethtown trades at elevated prices given Fort Knox and the I-65 industrial corridor. Nelson County sits between these markets geographically, yet land prices haven't fully reflected that location advantage.</p>
+
+<p>Part of the reason is perception. Bardstown is a tourism draw, but it's not historically known as a growth market. That's changing. And buyers from the Louisville market, increasingly priced out of Bullitt and Jefferson Counties, are starting to look south — which means Nelson County is in line to capture the next wave of spillover demand.</p>
+
+<p>The sellers who move before that spillover arrives capture full value without competition. The sellers who wait compete with every other listing when the market heats up — and often end up pricing down to move inventory anyway.</p>
+
+<h2>What Buyers Are Looking for in Nelson County</h2>
+
+<p>Nelson County attracts several distinct buyer profiles:</p>
+
+<ul>
+  <li><strong>Agricultural buyers</strong> — Nelson County has productive tobacco, corn, and livestock land. Agricultural buyers from within the region are active in the market.</li>
+  <li><strong>Louisville commuters seeking rural residential land</strong> — Bardstown is about 40 miles from Louisville. As remote and hybrid work has normalized, that commute is manageable for many buyers who want acreage and a rural setting.</li>
+  <li><strong>Bourbon tourism investors</strong> — Some buyers are looking for parcels with road frontage or visibility near the Bourbon Trail for agritourism or event venue development.</li>
+  <li><strong>Cash investment buyers</strong> — Buyers like Noble Land Company purchase land throughout Nelson County, closing quickly and without contingencies.</li>
+</ul>
+
+<h2>The Hidden Cost of Waiting</h2>
+
+<p>Kentucky property taxes are among the lowest in the country, which can create a false sense of security for landowners holding idle parcels. The tax bill is small, so the cost of holding feels negligible. But the math changes when you account for what the proceeds from a sale could be doing instead.</p>
+
+<p>A 30-acre parcel in Nelson County worth $90,000 today generates roughly $0 in income if it's sitting vacant. Sell it and invest the $90,000 at a conservative 6% annual return, and you've generated $5,400 in year one — more than most Nelson County landowners pay in property taxes over a decade. Over five years, that's $27,000 in opportunity cost, even before compounding.</p>
+
+<p>The land would need to appreciate by $27,000+ just to break even against the opportunity cost of holding — and that doesn't account for the carrying costs, liability exposure, or the time you've spent managing a property that produces nothing.</p>
+
+<h2>Inherited Nelson County Land: A Common Scenario</h2>
+
+<p>Many of the vacant parcels in Nelson County come from inheritance. Families have held land there for generations — tobacco land that's no longer farmed, wooded acreage that nobody visits, parcels that have accumulated multiple heirs across different states. The original owner had a connection to the land that made holding it meaningful. The heirs often don't have that same connection, but nobody wants to be the first to suggest selling.</p>
+
+<p>This is a pattern we see throughout Kentucky, and it resolves the same way almost every time: eventually, someone does the math, realizes holding costs the family money, and initiates a sale. The families who do this sooner leave more equity on the table for themselves. The families who wait longest often sell into a market that's moved in ways they didn't anticipate — sometimes favorably, sometimes not.</p>
+
+<h2>Your Options for Selling Nelson County Land</h2>
+
+<h3>List with a Local Agent</h3>
+<p>A local real estate agent can list your land on the MLS and market it to traditional retail buyers. This approach can yield the highest price if the right buyer is found, but it typically takes 6–18 months for rural vacant land in Nelson County, involves agent commissions of 5–6%, and requires the land to show well and be accessible to buyers.</p>
+
+<h3>Auction</h3>
+<p>Agricultural land auctions are active in Kentucky. Auctions can be effective for farm ground with established income history, but raw vacant parcels without income often perform below retail at auction.</p>
+
+<h3>Direct Cash Sale</h3>
+<p>Noble Land Company purchases Nelson County land directly — no agent, no listing, no waiting for a buyer. We make a cash offer within 48 hours of reviewing the parcel, pay all closing costs, and can close in as few as 14 days. The offer will be below full retail value, which reflects the convenience and speed we're providing.</p>
+
+<h2>Kentucky Closing Process</h2>
+
+<p>Kentucky requires attorney-supervised real estate closings. Noble Land Company works with a licensed Kentucky closing attorney and covers all closing costs on our end. Remote closings are available for out-of-state sellers. Most Nelson County closings complete in 14–21 days from accepted offer.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>My land is enrolled in a farm program. Does that complicate a sale?</h3>
+<p>It can add a step but doesn't prevent sale. FSA program base acres and payment history transfer with ownership. Some program payments may be prorated at closing. We're familiar with Kentucky ag program considerations and factor them in.</p>
+
+<h3>I have timber on the parcel. How do you value that?</h3>
+<p>Timber adds value — we account for it in our research. If you have a recent timber cruise, share it with us; if not, we'll evaluate from aerial imagery and county records.</p>
+
+<h3>What if the parcel has access issues?</h3>
+<p>We buy landlocked and access-challenged parcels. Access issues affect value but don't disqualify a parcel. We'll account for them in our offer.</p>
+
+<h2>Get a Free Offer on Your Nelson County Land</h2>
+
+<p>Noble Land Company buys Kentucky land statewide, including in Nelson County's undervalued market. <a href="/we-buy-land-kentucky">See how we buy Kentucky land</a>, or <a href="/contact">request a free cash offer for your Nelson County parcel</a>. We'll respond within 48 hours with a research-backed offer and no obligation to accept.</p>
+`,
+  },
+  {
+    slug: "sell-land-oneida-county-wisconsin-lake-cabin",
+    title: "Selling Oneida County, Wisconsin Land: What Lake Property Owners Need to Know",
+    metaTitle: "Oneida County Wisconsin Lake Land for Sale | Noble Land Co.",
+    metaDescription: "Own vacant land or a lake lot in Oneida County, Wisconsin? Learn who's buying, what your property is worth, and how to sell fast with a direct cash offer.",
+    date: "2026-04-26",
+    state: "Wisconsin",
+    excerpt: "Oneida County is the heart of Wisconsin's Northwoods lake country — Rhinelander, Lake Tomahawk, Three Lakes, Eagle River just over the county line. If you own a lake lot or vacant parcel here, the summer window is your strongest selling season. Here's what you need to know.",
+    readingTime: "7 min read",
+    primaryKeyword: "sell land Oneida County Wisconsin",
+    content: `
+<h1>Selling Oneida County, Wisconsin Land: What Lake Property Owners Need to Know</h1>
+
+<p>Oneida County, Wisconsin is Northwoods lake country. Rhinelander sits at its center — the self-proclaimed Hodag capital of the world, surrounded by hundreds of named lakes, thousands of acres of county forest, and the kind of slow-moving summer tourism economy that has sustained the region for generations. If you own a vacant lake lot, a wooded recreational parcel, or a small cabin tract in Oneida County, you own something that buyers from Milwaukee, Madison, and Chicago actively want.</p>
+
+<p>The question is whether now is the right time to sell — and if so, how to do it without leaving money on the table.</p>
+
+<h2>Who's Buying Oneida County Land Right Now</h2>
+
+<p>The Oneida County land market draws several buyer types:</p>
+
+<ul>
+  <li><strong>Twin Cities and Chicago buyers</strong> — Rhinelander is roughly 4 hours from Minneapolis and 5.5 hours from Chicago. Buyers from these markets who want lake access without the price premiums of the Chain of Lakes area look to Oneida County as an accessible alternative.</li>
+  <li><strong>Cabin and camp buyers</strong> — Small wooded parcels with lake access or near public water sell steadily in Oneida County. Buyers want private land near public recreation — county forests, rivers, ATV trails, and snowmobile corridors.</li>
+  <li><strong>Hunters and anglers</strong> — Oneida County's deer and musky fishing reputation draws serious sportsmen who want private land as a base. These buyers are year-round but peak in the fall pre-season.</li>
+  <li><strong>Retirement buyers</strong> — Some buyers are locking in future retirement property now, before prices climb further. Oneida County's lower cost of living versus lakefront markets in Vilas or Minocqua makes it appealing for value-seeking future retirees.</li>
+  <li><strong>Cash investment buyers</strong> — Noble Land Company buys vacant land throughout Oneida County, closing quickly regardless of parcel condition or size.</li>
+</ul>
+
+<h2>The Seasonal Selling Window</h2>
+
+<p>Oneida County's land market has a rhythm. Spring and early summer — roughly May through July — is when buyer activity peaks. Families and cabin buyers are planning summer trips, getting the itch for lake property, and actively searching. If you can get your land in front of buyers during this window, you're competing in the most active market of the year.</p>
+
+<p>Fall brings a second, smaller wave from hunters. Winter is slow — Rhinelander gets serious snowfall, roads to rural parcels can be impassable, and most buyer activity pauses until spring.</p>
+
+<p>If you're considering selling, late April through June is the prime window to list, accept an offer, and close before summer ends. Waiting until fall means entering a slower market with less buyer competition.</p>
+
+<h2>The Managed Forest Law (MFL) Consideration</h2>
+
+<p>A significant share of Oneida County's larger wooded parcels are enrolled in Wisconsin's Managed Forest Law program, which provides substantial property tax reductions in exchange for keeping land in forestry use and allowing some public access (or paying higher fees for closed enrollment). MFL enrollment runs with the land — a new buyer inherits the program obligations.</p>
+
+<p>If your parcel is MFL-enrolled, there are a few things to know before selling:</p>
+
+<ul>
+  <li><strong>Withdrawal penalties</strong> — Withdrawing from MFL before the enrollment period ends triggers a penalty based on acreage and years remaining. Buyers typically prefer to assume the enrollment rather than trigger withdrawal.</li>
+  <li><strong>Disclosure requirements</strong> — MFL status must be disclosed to buyers in Wisconsin. Title work will show the enrollment.</li>
+  <li><strong>Impact on buyer pool</strong> — Most recreational buyers are fine with MFL. Some residential buyers may not want the restrictions. Cash land buyers like Noble Land Company buy MFL parcels regularly.</li>
+</ul>
+
+<h2>What Holding Costs Look Like in Oneida County</h2>
+
+<p>Wisconsin property taxes are not low, and Oneida County is no exception. Non-MFL vacant land in Oneida County assessed at $50,000 might carry an annual tax bill of $900–$1,400 depending on township and classification. Lake-adjacent parcels can be significantly higher.</p>
+
+<p>Stack that against 5 years of holding:</p>
+<ul>
+  <li>Property taxes: $1,100/year × 5 years = $5,500</li>
+  <li>Opportunity cost of $50,000 at 6%: ~$16,900 over 5 years</li>
+  <li>Maintenance, liability, insurance: $500–$1,000/year in a realistic scenario</li>
+  <li><strong>Total economic cost: ~$24,900–$27,400</strong></li>
+</ul>
+
+<p>The land would need to appreciate roughly 50% just to break even against the full cost of holding. That's possible in a strong market but not guaranteed for non-lakefront parcels without direct water access.</p>
+
+<h2>Your Options for Selling Oneida County Land</h2>
+
+<h3>List with a Local Agent</h3>
+<p>Rhinelander-area agents know the Northwoods market and can access the MLS. This gives you maximum exposure to retail buyers and potentially the highest price — but plan for a 6–18 month timeline and standard commissions.</p>
+
+<h3>Auction</h3>
+<p>Recreational land auctions are used in Wisconsin's Northwoods but tend to attract bargain-focused buyers. Results vary widely.</p>
+
+<h3>Direct Cash Sale</h3>
+<p>Noble Land Company buys Oneida County land directly. No listing, no agent commissions, no waiting for a retail buyer. We make a cash offer within 48 hours, pay all closing costs, and close in as little as 14 days. Offer is below retail to reflect the speed and certainty we provide.</p>
+
+<h2>Wisconsin Closing Process</h2>
+
+<p>Wisconsin doesn't require an attorney for land closings — a licensed title company handles the transaction. Noble Land Company covers all closing costs. Remote closings are available. Most Oneida County closings complete in 14–21 days from accepted offer.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>My parcel has lake frontage but no improvements. Is it harder to sell?</h3>
+<p>Lake frontage without improvements actually sells well in Oneida County — buyers often prefer to build to their own specs. Shoreland zoning regulations (WDNR setback rules) will apply to any future development; we account for these in our evaluation.</p>
+
+<h3>I've had the land for 30 years. Will I owe capital gains?</h3>
+<p>Likely yes if it's appreciated significantly. Capital gains on land held more than a year are taxed at long-term rates (0%, 15%, or 20% depending on income). Talk to a tax advisor before selling if this is a concern — we can work with your timeline.</p>
+
+<h3>The parcel is landlocked. Can you still buy it?</h3>
+<p>Yes. Access-challenged parcels affect value but don't disqualify a sale. We'll account for access issues in our offer.</p>
+
+<h2>Get a Cash Offer on Your Oneida County Land</h2>
+
+<p>Noble Land Company buys Wisconsin land statewide, including recreational and lake-adjacent parcels throughout Oneida County. <a href="/we-buy-land-wisconsin">See how we buy Wisconsin land</a>, or <a href="/contact">request a free cash offer for your Oneida County parcel</a>. Spring is the best time to sell — don't let another summer pass with the land sitting idle.</p>
+`,
+  },
+  {
+    slug: "sell-land-maury-county-tennessee-cash-offer",
+    title: "Sell Your Maury County, Tennessee Land for Cash — Fast, Flexible, No Hassle",
+    metaTitle: "Maury County Tennessee Land Cash Offer | Noble Land Co.",
+    metaDescription: "Own land in Maury County, Tennessee? The Columbia market is booming with the Volkswagen plant and Nashville spillover. Get a fast cash offer and close in as little as 14 days.",
+    date: "2026-04-26",
+    state: "Tennessee",
+    excerpt: "Maury County's transformation from quiet Middle Tennessee farm country to a full-on economic development story — anchored by the Volkswagen EV plant — has made Columbia one of Tennessee's fastest-moving land markets. If you own land here, the timing has rarely been better.",
+    readingTime: "7 min read",
+    primaryKeyword: "sell land Maury County Tennessee",
+    content: `
+<h1>Sell Your Maury County, Tennessee Land for Cash — Fast, Flexible, No Hassle</h1>
+
+<p>Maury County, Tennessee used to be the kind of place you drove through on the way from Nashville to somewhere else. Columbia, the county seat, had its antebellum homes and its mule-trading history — but it wasn't on anyone's economic development radar. That's changed. Dramatically.</p>
+
+<p>The Volkswagen Group of America selected Maury County for its first dedicated electric vehicle assembly plant in the US — a multi-billion dollar investment that broke ground with the expectation of thousands of direct jobs and many more through the supplier network. Combined with Nashville's relentless southern expansion, Maury County has gone from afterthought to one of the more active land markets in Middle Tennessee.</p>
+
+<p>If you own land in Maury County, you're sitting in the middle of this story. The question is whether now is the right time to cash out.</p>
+
+<h2>What's Driving Maury County Land Demand</h2>
+
+<p>The drivers here are unusually clear and well-documented:</p>
+
+<ul>
+  <li><strong>Volkswagen EV plant</strong> — Direct construction and operational jobs, plus the supplier ecosystem that follows large automotive plants, means thousands of workers needing housing and a surge in commercial development. Land near industrial corridors and US-412/I-65 has already responded in price.</li>
+  <li><strong>Nashville spillover</strong> — Columbia is about 45 miles south of Nashville. As Williamson County (Franklin, Brentwood) has priced out buyers, they've moved south into Maury. This dynamic has been running for several years and shows no sign of reversing.</li>
+  <li><strong>No state income tax</strong> — Tennessee's tax environment continues to attract migration from higher-tax states. People arriving in Middle Tennessee who can't afford Williamson County prices look to Maury.</li>
+  <li><strong>Agricultural land transition</strong> — Farm ground near Columbia that was selling as productive agricultural land is increasingly being evaluated by buyers for its development potential. This creates a floor that traditional farm values alone wouldn't support.</li>
+</ul>
+
+<h2>The Case for Selling Now</h2>
+
+<p>Markets that are clearly appreciating can feel like a reason to hold — "why sell when prices are going up?" But the counterargument is compelling:</p>
+
+<p>First, you don't know when the appreciation curve flattens or reverses. Economic development projects take time, supply eventually catches up with demand, and the macro environment (interest rates, regional migration trends) can shift. Buyers are pricing in an optimistic future; sellers who move now get paid for that optimism without bearing the risk that it doesn't fully materialize.</p>
+
+<p>Second, the opportunity cost of holding appreciating-but-idle land is real. A Maury County parcel worth $150,000 today that you're not using is generating $0 in income. Sell it, put the proceeds to work elsewhere, and you capture both the current market value and the future return on your deployed capital.</p>
+
+<p>Third, transaction costs eat into gains. If you wait two years and the land appreciates 15% but you pay a 6% commission, capital gains taxes on a large gain, and closing costs, your net improvement from waiting may be smaller than it looks in gross terms.</p>
+
+<h2>What Buyers Look for in Maury County</h2>
+
+<p>Buyer profiles vary by parcel location and type:</p>
+
+<ul>
+  <li><strong>Industrial and commercial buyers</strong> — Land near US-412, I-65, or the VW plant corridor is actively sought by developers, suppliers, and logistics operators.</li>
+  <li><strong>Residential developers</strong> — Columbia's growth means residential subdivision land is in demand. Larger tracts near the city limits or with road frontage are the primary target.</li>
+  <li><strong>Rural residential buyers</strong> — Nashville commuters wanting acreage and a rural feel at a lower price than Williamson County can offer.</li>
+  <li><strong>Cash investment buyers</strong> — Noble Land Company purchases Maury County land directly, for cash, regardless of parcel size or condition.</li>
+</ul>
+
+<h2>How Our Cash Offer Process Works</h2>
+
+<ol>
+  <li><strong>Submit your parcel info</strong> — Address, acreage, and any details you have about the land. Online form takes under 5 minutes.</li>
+  <li><strong>We research within 24–48 hours</strong> — County deed records, GIS parcel maps, recent comp sales, and road access evaluation.</li>
+  <li><strong>You receive a written cash offer</strong> — No obligation. No pressure. Take time to review it.</li>
+  <li><strong>Choose your closing date</strong> — We work around your timeline. Need 30 days? 60? We're flexible.</li>
+  <li><strong>Close and get paid</strong> — Wire transfer or cashier's check at closing through a licensed Tennessee title company. We cover all closing costs.</li>
+</ol>
+
+<h2>Tennessee Closing Process</h2>
+
+<p>Tennessee doesn't require an attorney for real estate closings — a licensed title company handles the transaction. Noble Land Company covers all closing costs. Remote closings are available for out-of-state sellers. Most Maury County closings complete in 14–21 days from accepted offer.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>My land is agricultural. Will you still make an offer?</h3>
+<p>Yes. We buy agricultural land, vacant parcels, wooded tracts, and everything in between. Agricultural zoning doesn't prevent a cash sale — we account for land use in our offer research.</p>
+
+<h3>I've had multiple agents tell me different values. How do I know what my land is worth?</h3>
+<p>Land valuations can vary significantly depending on methodology. We base our offers on recent Maury County deed transfer records — actual recorded sale prices, not estimates. If you want to see the comps we used, just ask.</p>
+
+<h3>The land has a creek that floods seasonally. Is that a problem?</h3>
+<p>Flood-prone or wetland-adjacent parcels require additional research but aren't automatically disqualifying. We'll evaluate FEMA flood maps and note any NRCS wetland designations in our research before making an offer.</p>
+
+<h2>Get a Cash Offer on Your Maury County Land</h2>
+
+<p>Noble Land Company buys Tennessee land statewide, including in Maury County's rapidly evolving market. <a href="/we-buy-land-tennessee">See how we buy Tennessee land</a>, or <a href="/contact">request a free cash offer for your Maury County parcel</a>. We'll respond within 48 hours — fast close, cash in hand, no hassle.</p>
+`,
+  },
+  {
+    slug: "sell-land-johnston-county-north-carolina-raleigh-spillover",
+    title: "Johnston County, NC Land: Raleigh's Growth Is Coming Your Way",
+    metaTitle: "Johnston County North Carolina Land | Sell for Cash | Noble Land Co.",
+    metaDescription: "Johnston County, NC is directly in Raleigh's eastward growth path. If you own land near Smithfield, Clayton, or the I-95 corridor, the market is moving — and now is the time to act.",
+    date: "2026-04-26",
+    state: "North Carolina",
+    excerpt: "Johnston County sits directly east of Wake County — right in the path of Raleigh's relentless outward growth. Clayton has already transformed. Smithfield is next. Land values here are a function of proximity to one of the fastest-growing metros in the country.",
+    readingTime: "7 min read",
+    primaryKeyword: "sell land Johnston County North Carolina",
+    content: `
+<h1>Johnston County, NC Land: Raleigh's Growth Is Coming Your Way</h1>
+
+<p>Johnston County, North Carolina doesn't get the headlines that Wake or Durham do, but it doesn't need to. Johnston County sits directly east of Wake — bordered by it along its entire western edge — and benefits directly from everything that makes the Triangle one of the country's most sought-after metros. Raleigh grows east. Johnston County is east.</p>
+
+<p>Clayton, in the western portion of Johnston County, has already made the transition: it's a bedroom community for Raleigh commuters, with growth rates that would have seemed implausible twenty years ago. Smithfield, the county seat, is now in the second wave — growth pressure is working its way east along US-70 and I-95, and land values are responding.</p>
+
+<p>If you own vacant land in Johnston County, you own something that's in the path of one of the largest sustained growth stories in the southeastern United States. The question is how you want to position yourself.</p>
+
+<h2>What's Driving Johnston County Land Demand</h2>
+
+<ul>
+  <li><strong>Raleigh metro spillover</strong> — Wake County land and home prices have driven buyers east into Johnston County for years. Clayton's transformation from small town to Raleigh suburb happened quickly; Smithfield and Four Oaks are now absorbing the next wave.</li>
+  <li><strong>I-95 and US-70 corridors</strong> — Johnston County sits at the intersection of I-95 and US-70, two of the most significant transportation corridors in the eastern US. This positioning attracts logistics, warehousing, and industrial development that follows population growth.</li>
+  <li><strong>Triangle growth fundamentals</strong> — Research Triangle Park continues to attract major employers. Apple, Google, and biotech expansions have added tens of thousands of high-income jobs that need housing. Much of that housing gets built in counties surrounding Wake.</li>
+  <li><strong>Agricultural land conversion</strong> — Johnston County's agricultural roots mean large tracts of farm ground are being acquired by developers, builders, and investors positioning for residential and commercial conversion. Active farmland commands farm prices; land in the path of development commands something different.</li>
+</ul>
+
+<h2>Understanding Your Land's Position in the Market</h2>
+
+<p>Not all Johnston County land is equally positioned for development pressure. Location within the county matters significantly:</p>
+
+<p><strong>Western Johnston County (Clayton corridor)</strong> — Already transitioned. Land here trades at near-suburban prices. If you own parcels in this zone, you're in a fully activated market.</p>
+
+<p><strong>Central Johnston County (Smithfield/US-70 corridor)</strong> — In the second wave. Development is moving in from the west, and buyers are positioning for the transition that's visibly underway. Values are rising but haven't yet caught up with western Johnston County prices.</p>
+
+<p><strong>Eastern Johnston County (Four Oaks/Benson/I-95 corridor)</strong> — Still in earlier stages of growth pressure, but the I-95 logistics corridor creates independent demand for industrial and warehouse-use land. Agricultural land here is also transitioning over longer timelines.</p>
+
+<h2>The Case for Selling Now</h2>
+
+<p>Growing markets create a predictable seller psychology: "Why sell when it's going up?" But there are real arguments for capturing value today rather than waiting:</p>
+
+<p><strong>Appreciation isn't guaranteed or linear.</strong> The Triangle market has been exceptional for years, but macro factors — interest rates, national migration trends, major employer decisions — can slow or redirect growth. Buyers today are pricing in continued growth; if that growth slows, offers will compress.</p>
+
+<p><strong>You capture the optimism without the risk.</strong> Selling now means you receive a price that reflects buyer confidence in Johnston County's trajectory. If the trajectory bends differently than expected, you've already cashed out at the peak of optimism.</p>
+
+<p><strong>Holding costs compound.</strong> North Carolina property taxes on vacant land aren't trivial. A 50-acre parcel assessed at $200,000 carries annual taxes of $1,400–$2,000 depending on township. Over five years, that's $7,000–$10,000 — plus the opportunity cost of uninvested capital.</p>
+
+<h2>Common Johnston County Seller Situations</h2>
+
+<p>The sellers we work with in Johnston County come in a few common situations:</p>
+
+<ul>
+  <li><strong>Inherited farmland</strong> — A parent or grandparent farmed the land for decades. The heir lives in Raleigh, Charlotte, or out of state. Nobody has an active agricultural use for it, but nobody wants to be the one to sell the family farm.</li>
+  <li><strong>Long-term investment properties</strong> — Buyers who purchased Johnston County land 10–15 years ago as a long-term investment are now ready to realize their gains and deploy capital elsewhere.</li>
+  <li><strong>Estate settlements</strong> — Multiple heirs, different financial needs, and a time pressure to resolve the estate efficiently.</li>
+  <li><strong>Out-of-state owners</strong> — People who moved away but still hold Johnston County land — managing it from a distance, paying taxes, not using it.</li>
+</ul>
+
+<h2>Your Options for Selling Johnston County Land</h2>
+
+<h3>List with a Local Agent</h3>
+<p>Active real estate agents in Smithfield and Clayton are experienced in Johnston County land sales. A traditional listing gives you maximum retail exposure but expect a 6–18 month timeline for vacant land, plus commission costs.</p>
+
+<h3>Sell to a Developer Directly</h3>
+<p>If your parcel is large and in an actively developing area, approaching developers or builders directly is possible — but finding the right buyer takes time, and developers are sophisticated negotiators. You may also face contingencies tied to entitlement and permitting that extend the timeline significantly.</p>
+
+<h3>Direct Cash Sale</h3>
+<p>Noble Land Company purchases Johnston County land directly, for cash, with no contingencies. We make an offer within 48 hours, pay all closing costs, and close on your timeline. The tradeoff is a below-retail offer that reflects the certainty and speed we provide.</p>
+
+<h2>North Carolina Closing Process</h2>
+
+<p>North Carolina requires attorney-supervised closings for real estate transactions. Noble Land Company coordinates with a licensed NC closing attorney and covers all closing costs. Remote closings are available for out-of-state sellers. Most Johnston County closings complete in 14–21 days from accepted offer.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>My land is in a flood zone. Does that limit my options?</h3>
+<p>Flood zone designation affects value and future development potential but doesn't prevent a cash sale. We evaluate FEMA flood maps and NRCS wetland data before making an offer and factor them into our pricing.</p>
+
+<h3>I have an existing lease tenant farming the land. Can I still sell?</h3>
+<p>Yes. Existing agricultural leases transfer with the property in North Carolina. Buyers assume the lease. We account for lease terms — a short-term market-rate lease is generally neutral to value.</p>
+
+<h3>How do I know if my offer is fair for a market that's moving this fast?</h3>
+<p>We research Johnston County deed records — actual recorded sale prices from recent comparable transactions — before every offer. We'll share the comps we used if you ask. The goal is a number you can trust, not one you have to guess at.</p>
+
+<h2>Get a Cash Offer on Your Johnston County Land</h2>
+
+<p>Noble Land Company buys North Carolina land statewide, including in Johnston County's rapidly appreciating market east of Raleigh. <a href="/we-buy-land-north-carolina">See how we buy North Carolina land</a>, or <a href="/contact">request a free cash offer for your Johnston County parcel</a>. We'll respond within 48 hours — no agents, no waiting, just a clear cash offer on your timeline.</p>
+`,
+  },
+
   // ── CATCH-UP BATCH: Apr 17, 18, 21 ────────────────────────────────────────
   // DAY 1 — 2026-04-17
   {

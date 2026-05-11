@@ -10,6 +10,11 @@ const nextConfig: NextConfig = {
         destination: "https://www.noblelandcompany.com/we-buy-land-texas",
         permanent: true,
       },
+      {
+        source: "/copperas-cove",
+        destination: "https://www.landwatch.com/coryell-county-texas-farms-and-ranches-for-sale/pid/426653743",
+        permanent: false,
+      },
     ];
   },
 

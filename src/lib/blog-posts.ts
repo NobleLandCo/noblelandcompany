@@ -20732,6 +20732,485 @@ export const blogPosts: BlogPost[] = [
 <h2>Get a Fair Offer for Your North Carolina Land</h2>
 <p>Noble Land Company buys land across North Carolina — in both markets and in the transitional zones in between. We understand the geographic and market distinctions and evaluate your specific parcel for what it actually is and where it actually is, not against generic North Carolina averages. <a href="/we-buy-land-north-carolina">See how we buy North Carolina land</a>, or <a href="/contact">request a free cash offer</a> with a clear explanation of how we arrived at the price. We respond within 48 hours.</p>`,
   },
+
+  // ── DAILY BATCH: May 12 ───────────────────────────────────────────────────
+  {
+    slug: "oklahoma-tax-delinquency-what-happens-pittsburg-county",
+    title: "Oklahoma Tax Delinquency: What Happens If You Stop Paying Your Land Taxes",
+    metaTitle: "Oklahoma Tax Delinquency: What Happens | Pittsburg County Guide",
+    metaDescription: "Missing property taxes in Oklahoma starts a clock you can't stop. Here's exactly what happens in Pittsburg County and how to get out before the state takes over.",
+    date: "2026-05-12",
+    state: "Oklahoma",
+    excerpt: "Falling behind on Oklahoma land taxes feels manageable at first. Then the penalties stack up, the redemption window closes, and the county puts your parcel on a tax resale list. Understanding the timeline is the first step to stopping the damage.",
+    readingTime: "7 min read",
+    primaryKeyword: "Oklahoma tax delinquency land",
+    content: `
+<h1>Oklahoma Tax Delinquency: What Happens If You Stop Paying Your Land Taxes</h1>
+
+<p>Every year, a few thousand Oklahoma landowners skip a property tax payment. Some miss the deadline by accident. Others are stretched thin and figure they'll catch up next year. A smaller group simply has no idea what the property is worth or what it's costing them to hold it, so they stop paying and hope nothing happens.</p>
+
+<p>Something always happens. Oklahoma has a structured process for delinquent land taxes, and once you miss a payment, a clock starts running. It doesn't pause, and it doesn't forgive.</p>
+
+<p>This guide walks through exactly what that process looks like, using Pittsburg County and the McAlester area as a concrete example. If you own land anywhere in Oklahoma, the mechanics are the same, give or take minor county-level variations.</p>
+
+<h2>The Core Problem: Oklahoma's Tax Delinquency Timeline</h2>
+
+<p>Property taxes in Oklahoma are due November 1, payable in two equal installments. The first half is due January 1 and becomes delinquent after April 1. The second half is due March 1 and becomes delinquent after July 1. Miss either installment and the penalties start immediately.</p>
+
+<p>Here's how the progression works:</p>
+
+<p><strong>Year 1, months 1-6:</strong> Interest accrues at 1.5% per month on unpaid taxes. A $600 annual tax bill becomes roughly $655 after six months if you've paid nothing. The county treasurer sends notice. Most landowners at this stage can pay and move on without further consequence.</p>
+
+<p><strong>Year 2:</strong> The parcel appears on the county's delinquent tax roll. The county can now issue a tax lien certificate to a private investor. In Pittsburg County, these are sold at an annual tax lien sale. The investor pays your tax bill, and you now owe that investor the principal plus 8% annual interest. You still have a right to redeem.</p>
+
+<p><strong>Year 3-5:</strong> Oklahoma gives landowners a five-year redemption period from the date of the original delinquency. During that window, you can pay off the full amount owed, including penalties, interest, and any costs the lien holder has incurred. Pay it, get the lien released, keep your land.</p>
+
+<p><strong>After year 5:</strong> The redemption period closes. The tax lien holder can file for a tax deed. The county court issues the deed, the original owner is notified by certified mail, and if no payment is made, the property transfers. You no longer own it.</p>
+
+<p>In Pittsburg County, this process runs on a consistent schedule. The county treasurer's office maintains a public list of parcels in various stages of delinquency. McAlester-area rural tracts, timber parcels in the southeastern hills, and inherited parcels from absentee heirs all show up on this list with some regularity.</p>
+
+<h2>Your Options Before the Five-Year Window Closes</h2>
+
+<p>If you're in the delinquency window and trying to decide what to do, you have a few real paths forward.</p>
+
+<p><strong>Pay the back taxes and catch up.</strong> This is the straightforward option if the land has value you want to keep and you can put your hands on the money. Contact the Pittsburg County Treasurer's office (918-423-4726) for a payoff figure. They'll tell you exactly what's owed including all penalties and interest. Get the number, compare it to what the property is actually worth to you, and decide.</p>
+
+<p><strong>Negotiate a payment plan.</strong> Oklahoma statutes allow counties to enter into installment agreements with delinquent taxpayers. Not all county treasurers offer this routinely, but most will consider it for landowners who approach them proactively before a tax sale. Call before they call you.</p>
+
+<p><strong>Sell the land before the deed transfers.</strong> This is the option most people overlook when they're behind. You can sell a tax-delinquent property. The buyer pays the purchase price, and the delinquent taxes get paid at or before closing. You walk away with whatever equity remains after the tax payoff. If the land is worth $40,000 and you owe $3,200 in back taxes, you still clear $36,800.</p>
+
+<p>The catch: finding a buyer willing to work through a tax-delinquent sale takes more effort than a clean listing. Traditional buyers get nervous. Their title companies flag it. Lenders won't finance it. A cash buyer who buys land directly is the fastest path to closing.</p>
+
+<p><strong>Do nothing and lose it.</strong> This sounds harsh, but it's a real outcome that happens every year in Pittsburg County. Heirs who inherited land they didn't want, landowners who moved away and disconnected, people who simply didn't know the timeline, all of them end up forfeiting property worth real money because they ran out the clock.</p>
+
+<h2>Why Noble Land Company Can Help</h2>
+
+<p>Noble Land Company buys land in Oklahoma directly, including parcels with tax delinquencies. We've worked through enough of these situations to know the process cold: how to run title through delinquency, what a valid payoff figure looks like, and how to structure a closing that gets the taxes paid and puts money in your pocket quickly.</p>
+
+<p>We don't require you to catch up on back taxes before we make an offer. We factor the payoff into our pricing. If your land in Pittsburg County is worth $38,000 to us and you owe $4,100 in back taxes, we'll make you an offer that accounts for both. You don't need to find the money first.</p>
+
+<p>We close in 2-3 weeks in most cases. For landowners watching the redemption window get shorter, that speed matters.</p>
+
+<h2>How the Process Works</h2>
+
+<p>Step one: tell us about the property. County, parcel ID or legal description, and a rough sense of the acreage and condition are enough to get started. If you know what's owed in back taxes, include that. If you don't, we'll look it up.</p>
+
+<p>Step two: we evaluate the parcel and send a written cash offer within 48 hours. The offer accounts for the tax payoff, the land's market value, and the cost of the transaction on our end. We explain how we got to the number.</p>
+
+<p>Step three: if you accept, we open title, coordinate with the Pittsburg County Treasurer's office to get a final payoff figure, and schedule closing with a local title company. You sign the deed, the taxes get paid from closing proceeds, and you receive a check or wire for the balance.</p>
+
+<p>That's it. No listing fees. No buyer financing contingencies. No delays waiting for someone's mortgage approval.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<p><strong>Can I sell land in Oklahoma if I owe back taxes?</strong><br />
+Yes. You can sell a tax-delinquent property as long as you're still within the redemption period and the deed hasn't transferred to a lien holder. The taxes get paid at closing from the sale proceeds.</p>
+
+<p><strong>What if a tax lien certificate has already been sold on my parcel?</strong><br />
+You can still sell, but the lien holder's payoff amount gets added to the closing costs. We can work through this. It adds a step to the title process, not a roadblock.</p>
+
+<p><strong>How long does Oklahoma's redemption period actually run?</strong><br />
+Five years from the date of original delinquency. The clock starts from the first year a payment was missed, not from when the lien was sold or when you received notice. Check your dates carefully.</p>
+
+<p><strong>What counties does Noble Land Company buy in?</strong><br />
+We buy throughout Oklahoma, including Pittsburg, Latimer, Le Flore, Pushmataha, Choctaw, and other southeastern counties where rural land and timberland are common.</p>
+
+<p><strong>Will I owe capital gains if I sell land that's behind on taxes?</strong><br />
+The tax delinquency doesn't affect capital gains treatment. If you've owned the land for over a year, long-term capital gains rates apply to any profit. Consult a tax advisor about your specific situation. Noble Land Company is not a tax advisor.</p>
+
+<h2>Stop the Bleed Before the Window Closes</h2>
+
+<p>A missed tax payment on Oklahoma land is not a crisis on day one. By year four or five of the redemption period, it becomes one. The people who come out ahead are the ones who make a decision early, whether that's catching up on the taxes, negotiating a plan with the county, or selling the land and walking away with money instead of nothing.</p>
+
+<p>If you own land in Pittsburg County or anywhere else in Oklahoma and you're behind on taxes, find out where you stand in the timeline today. Then decide. Doing nothing is a decision too, and it's usually the most expensive one.</p>
+
+<p><a href="/we-buy-land-oklahoma">See how Noble Land Company buys Oklahoma land</a>, or <a href="/contact">request a free cash offer</a>. We'll respond within 48 hours and can work through tax-delinquent situations from the first conversation.</p>`,
+  },
+  {
+    slug: "kentucky-heir-property-mccreary-county-sell-land",
+    title: "Selling Kentucky Land in McCreary County Without Full Probate: Heir Property Solutions",
+    metaTitle: "Heir Property McCreary County KY | Sell Land Without Full Probate",
+    metaDescription: "Heir property in McCreary County, Kentucky keeps families stuck for years. These are the real options for selling or settling family land without a long probate battle.",
+    date: "2026-05-12",
+    state: "Kentucky",
+    excerpt: "When land passes through a family without a will, McCreary County parcels can end up with six, eight, or twelve owners on paper, none of whom fully agree. There are ways through it. They just take someone in the family willing to start the conversation.",
+    readingTime: "8 min read",
+    primaryKeyword: "heir property Kentucky McCreary County",
+    content: `
+<h1>Selling Kentucky Land in McCreary County Without Full Probate: Heir Property Solutions</h1>
+
+<p>In the mountains of southeastern Kentucky, land has always meant something more than a number on a tax bill. McCreary County parcels were cleared by hand, passed down without lawyers, and held in families through generations of lean years. When the original owner dies without a will, those parcels often don't get probated. They just stay. And over decades, the title gets messier with every passing generation.</p>
+
+<p>Heir property is one of the most common and most misunderstood problems in rural Appalachian land ownership. Families who want to sell can't agree on price or process. Families who want to keep the land can't buy out the cousins who want out. Everyone is stuck, and the land just sits there, sometimes generating a small timber payment, often just accumulating back taxes.</p>
+
+<p>There are paths through it. None of them are fast, but some are considerably simpler than others.</p>
+
+<h2>What Heir Property Actually Is</h2>
+
+<p>When someone dies without a will in Kentucky, their property passes to their heirs under state intestacy laws. In McCreary County, as across most of rural Kentucky, this often happened informally: a father died, the kids kept farming the land, nobody filed anything in court, and decades later the deed still shows the original owner's name.</p>
+
+<p>Each generation that passes without a formal transfer adds more names to the ownership chain. By the time someone in the family tries to sell, the heir group might include the original owner's children, grandchildren, and great-grandchildren. Some live locally. Some moved to Cincinnati or Louisville in the 1970s and haven't been back. A few may have died themselves, adding another layer of heirs to locate.</p>
+
+<p>Kentucky treats each heir as a co-tenant in common. Every co-tenant owns an undivided share of the whole property. To sell, all co-tenants must agree and sign the deed. If even one heir refuses, is unreachable, or is legally incapacitated, the sale cannot proceed through normal means.</p>
+
+<p>This is why McCreary County families sometimes describe heir property as feeling like a trap. Everyone wants something different, nobody has authority to act unilaterally, and the county tax bill keeps coming regardless.</p>
+
+<h2>Your Options When Family Land Is Stuck in Heir Property</h2>
+
+<p><strong>Full probate through the McCreary County District Court.</strong> If the original owner's estate was never probated, the first step is usually opening an estate and having an administrator appointed. This gives one person legal authority to manage the estate's assets. In straightforward cases with willing heirs and a clear family tree, a simple intestate administration in McCreary County can resolve in 6-12 months. Attorney costs run $2,000-$5,000 for an uncomplicated estate.</p>
+
+<p>The difficulty rises when heirs are many, scattered, or in dispute about value or distribution. Some McCreary County families have spent 3-5 years in probate for a 40-acre tract worth $60,000. Legal fees can eat a significant portion of the proceeds. This is the thorough path, but not always the fastest.</p>
+
+<p><strong>Heir agreement and quitclaim deed approach.</strong> If all living heirs can be located and are willing to cooperate, the family can sometimes resolve heir property without full estate administration by having each heir execute a quitclaim deed. Each heir conveys their interest in the property to one designated family member or to a buyer directly. This requires every heir's participation and a clean enough title history for a title company to work with.</p>
+
+<p>It works best when the family tree is two generations deep, all heirs are alive and cooperative, and the property has no outstanding liens or judgments. In McCreary County, where some properties have been held informally for 50-80 years, this approach often surfaces complications mid-process: a deceased heir whose estate must be opened separately, an heir whose address is unknown, a prior deed with a defect. Budget time for these.</p>
+
+<p><strong>Partition action.</strong> When heirs disagree and cannot reach a voluntary resolution, any co-tenant can file a partition suit in McCreary County Circuit Court. The court can order either physical division of the land (partition in kind) or a court-ordered sale with proceeds split among heirs.</p>
+
+<p>Partition suits are the option of last resort for a reason. Court-ordered land sales in rural Kentucky often generate lower prices than negotiated private sales, because the buyer pool for a forced sale is primarily investors who factor in execution risk. Legal fees run $5,000-$15,000 or more. The process can take 18-36 months. Everyone gets paid less than they would have in a cooperative sale, and family relationships frequently don't survive it.</p>
+
+<p><strong>Sell your individual heir interest to a buyer.</strong> This option surprises most people. Any heir in a tenancy in common can sell their individual fractional interest without the other heirs' agreement. If you own a 1/4 share of a McCreary County tract, you can sell that 1/4 share to a buyer who specializes in heir property and understands what they're acquiring.</p>
+
+<p>The limitation: you can only sell your share, not the whole property. And buyers for fractional interests pay less per acre than buyers for whole parcels, because the buyer takes on the complexity of working out the remaining ownership structure later. This path makes sense when you genuinely need liquidity and the family cannot agree, but it's not ideal if the goal is maximizing everyone's proceeds.</p>
+
+<h2>Why McCreary County Land Specifically Needs Specialized Buyers</h2>
+
+<p>McCreary County sits in the Daniel Boone National Forest corridor, with significant timber value, recreational acreage, and some coal country legacy ownership patterns. The county has a long history of informal land transfers, oral agreements that were never recorded, and deed descriptions that reference physical landmarks that no longer exist. A creek bed that moved. A fence line from a farm that was subdivided in 1952. A chestnut tree.</p>
+
+<p>This history means that even when families reach agreement, title can take longer to clear than expected. Buyers who aren't familiar with southeastern Kentucky land tend to walk away when they see a complicated title history. Experienced land buyers don't.</p>
+
+<p>Noble Land Company has bought heir property in Kentucky, including parcels where the deed chain had gaps, where heirs were scattered across multiple states, and where the family needed help coordinating a simultaneous closing so everyone got paid at the same time. We understand what we're looking at when we see a McCreary County parcel with a complicated family history, and we price it fairly based on what the land is actually worth, not just on what's easy to close.</p>
+
+<h2>How Noble Land Company Works With Heir Property Families</h2>
+
+<p>We don't require a clean title before making an offer. We evaluate the land first, make an offer second, and work through the title process with a Kentucky-licensed attorney alongside you. Here's what that typically looks like:</p>
+
+<p>First, we look at the parcel: acreage, location in McCreary County, timber value, access, terrain, proximity to the National Forest boundary, and any known encumbrances. We make a written cash offer within 48 hours. The offer is for the property as-is, heir property status included.</p>
+
+<p>Second, we work with a title company and attorney to map the ownership structure. We identify which heirs need to sign, help locate family members who've lost touch, and coordinate the signature process. In some cases this takes 60-90 days. In simpler cases it's faster.</p>
+
+<p>Third, closing happens when title is ready. Each signing heir receives their share of the proceeds. You don't need to hire separate attorneys or negotiate with each other about who gets what. We structure the closing so the distribution is clear before anyone signs.</p>
+
+<p>If one or two heirs are unreachable or uncooperative, we'll discuss the realistic options, whether that's a partial purchase of willing heirs' shares, waiting for a partition resolution, or other approaches depending on what the family wants to accomplish.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<p><strong>Can we sell McCreary County land if the deed is still in a grandparent's name?</strong><br />
+Yes, but the estate will need to be opened and administered before or simultaneously with the sale. In Kentucky, an intestate estate can be opened in the District Court of the county where the property is located. A local estate attorney can handle this. We can refer you to attorneys familiar with McCreary County land cases if needed.</p>
+
+<p><strong>What if we can't find one of the heirs?</strong><br />
+Missing heirs complicate but don't always block a sale. A Kentucky court can appoint a guardian ad litem to represent an unknown heir's interests in certain circumstances. This adds time and cost. We'll give you an honest assessment of what the search looks like before you commit to the process.</p>
+
+<p><strong>What if family members disagree on whether to sell?</strong><br />
+We can purchase the shares of willing heirs only, leaving unwilling heirs' interests intact. This is less common but sometimes the right answer when one branch of the family wants liquidity and another doesn't. We can also explain to the full family what the land is worth and how we arrived at that number, which sometimes helps resolve disagreements that are partly about trust.</p>
+
+<p><strong>How much does McCreary County land typically sell for?</strong><br />
+Timber-quality land in the National Forest corridor runs $1,200-$2,800 per acre depending on timber stocking, terrain, and road access. Recreational land with creek frontage or elevation views runs higher. Rough, steep, road-inaccessible ground runs lower. We'll give you a number specific to your parcel with an explanation of how we got there.</p>
+
+<h2>Taking the First Step</h2>
+
+<p>The hardest part of an heir property situation is usually starting. Someone in the family has to be willing to reach out, gather the information, and push for a resolution. It doesn't have to be the oldest sibling or the person who lives closest to the land. It just has to be someone.</p>
+
+<p>If that someone is you, we're a good first call. We've worked through situations like yours before and we'll give you a straight answer about what we can do and what the process looks like before you commit to anything.</p>
+
+<p><a href="/we-buy-land-kentucky">See how Noble Land Company buys Kentucky land</a>, or <a href="/contact">reach out directly</a>. We respond within 48 hours and we're comfortable talking through the family situation before any paperwork is involved.</p>`,
+  },
+  {
+    slug: "wisconsin-land-values-by-county-bayfield",
+    title: "Wisconsin Land Values by County: What Your County Actually Looks Like to a Buyer",
+    metaTitle: "Wisconsin Land Values by County | Bayfield County Buyer View",
+    metaDescription: "Wisconsin land values vary by 5x or more depending on county. Here's what Bayfield and six other counties actually look like to a cash buyer, with real per-acre ranges.",
+    date: "2026-05-12",
+    state: "Wisconsin",
+    excerpt: "A Wisconsin landowner in Bayfield County and one in Green County can own nearly identical acreage and see completely different buyer interest, offer prices, and time to close. The state isn't one market. It's at least a dozen.",
+    readingTime: "8 min read",
+    primaryKeyword: "Wisconsin land values by county",
+    content: `
+<h1>Wisconsin Land Values by County: What Your County Actually Looks Like to a Buyer</h1>
+
+<p>If you own vacant land in Wisconsin and you're trying to figure out what it's worth, the worst thing you can do is search "Wisconsin land prices per acre" and assume the result applies to your parcel. Statewide averages are noise. A buyer evaluating your land is looking at your specific county, your specific soil type, your road access, and your proximity to lakes, trails, timber markets, or population centers. None of that shows up in a statewide average.</p>
+
+<p>This breakdown covers seven Wisconsin counties, with a close look at Bayfield County in the Lake Superior region, and explains what actually drives values in each market. If you own land in Wisconsin and want to understand what a buyer is seeing when they look at your parcel, this is the framework they're using.</p>
+
+<h2>Why County Matters More Than State</h2>
+
+<p>Wisconsin's land market splits into roughly four categories, each driven by different buyer pools and different underlying value drivers.</p>
+
+<p><strong>Northern lake country</strong> (Vilas, Oneida, Sawyer, Bayfield, Iron, Price): Recreational value is primary. Lake frontage, proximity to ATV trails and snowmobile routes, hunting access, and timber quality drive prices. Buyers are primarily recreational users, cabin owners, and timber investors.</p>
+
+<p><strong>Central agricultural corridor</strong> (Marathon, Portage, Wood, Waushara): Soil productivity matters most. Land capable of growing corn, soybeans, or potatoes at commercial scale commands strong premiums. Buyers are working farmers expanding operations and agricultural land investors.</p>
+
+<p><strong>Southern dairy belt</strong> (Green, Lafayette, Iowa, Grant): Small farms and dairy support land hold value well, but the buyer pool is narrower. Local farmers buying neighboring ground dominate these markets.</p>
+
+<p><strong>Milwaukee and Madison metro fringe</strong> (Waukesha, Dane, Ozaukee, Washington, Jefferson): Development pressure and suburban demand drive prices well above agricultural use value. A 10-acre parcel in Waukesha County with road frontage is a development play, not a farm investment.</p>
+
+<p>A buyer looking at your parcel is categorizing it immediately. The value framework they use depends entirely on which bucket your county falls into.</p>
+
+<h2>Bayfield County: The Case Study</h2>
+
+<p>Bayfield County covers the Chequamegon-Nicolet National Forest corridor on the Lake Superior shore, with Ashland to the east and Bayfield and Washburn as the primary towns. It's one of the most geographically distinct land markets in the state.</p>
+
+<p><strong>What drives value in Bayfield County:</strong></p>
+
+<p>Lake Superior frontage is the ceiling. Bayfield County shoreline parcels with lake access sell in ranges that bear no resemblance to interior timber ground, sometimes exceeding $15,000-$25,000 per acre for developed or developable lakefront. This category has a national buyer pool: people from Chicago, the Twin Cities, and Milwaukee who want a specific location and will pay for it.</p>
+
+<p>Interior recreational acreage is the meat of the market. Forty-acre timber tracts with ATV trail access, bordering or near the National Forest, in good deer and bear hunting country, sell in the $1,400-$2,800 per acre range. Quality timber stocking adds value. Poor road access subtracts meaningfully from that range.</p>
+
+<p>Timber-quality land without recreational premium sits at $900-$1,600 per acre. This is mature aspen and northern hardwood, good enough for a timber harvest but without the recreational amenities that attract cabin buyers.</p>
+
+<p>Rough, landlocked, or swampy parcels, and there are plenty in Bayfield County given the topography, trade at $300-$700 per acre if they move at all. Some simply don't sell.</p>
+
+<p><strong>What a buyer is checking for Bayfield County specifically:</strong> Is the parcel accessible by road year-round or only seasonally? Is there any lake, river, or stream access? Is there an existing structure, even a hunting shack? What's the timber type and estimated volume? How close is it to the Chequamegon National Forest boundary, and does that proximity help or hurt (some buyers want adjacency; others want independence from federal land neighbors)? Is there ATV or snowmobile trail access, and are trail fees current?</p>
+
+<p>These questions determine whether your Bayfield County parcel is priced at $1,200 per acre or $2,400 per acre. The difference on a 40-acre tract is $48,000.</p>
+
+<h2>Six More Counties, By the Numbers</h2>
+
+<p><strong>Vilas County:</strong> Wisconsin's premier lake country. The Northwoods recreational market centers here. Parcels near the Chain of Lakes or Manitowish Waters with road access: $2,000-$4,500/acre. Interior timber without lake access: $1,200-$2,000/acre. Lake frontage: $10,000-$30,000+/acre, depending on lake size and development. Buyer pool is deep, national, and willing to pay for the right property.</p>
+
+<p><strong>Sawyer County:</strong> Hayward is the hub. Strong ATV and fishing culture. Values run slightly below Vilas: $1,500-$3,000/acre for recreational ground, $900-$1,500/acre for interior timber. Musky fishing lakes with frontage command premiums in the $8,000-$20,000/acre range.</p>
+
+<p><strong>Oneida County:</strong> Rhinelander area. Similar dynamics to Vilas and Sawyer. Timber-recreational mix at $1,300-$2,500/acre for quality recreational ground. Strong snowmobile corridor value. Buyers often come from the Fox Valley and Green Bay markets.</p>
+
+<p><strong>Marathon County:</strong> Central Wisconsin agricultural and population center. Wausau is the anchor. Land here splits between agricultural ground ($4,000-$8,000/acre for Class A cropland in productive areas) and rural residential acreage ($8,000-$20,000/acre within commuting distance of Wausau). Different buyer pools, different value systems entirely.</p>
+
+<p><strong>Green County:</strong> Monroe is the seat. Southern Wisconsin dairy country. Farmland trades at $6,000-$10,000/acre for good ground. Rural residential acreage closer to Madison metro premium zones commands $15,000-$30,000/acre with road frontage and utilities. But landlocked agricultural parcels without development potential struggle to move at any price through conventional channels.</p>
+
+<p><strong>Grant County:</strong> Prairie du Chien area. The Driftless. Steep ridge and coulee land with Mississippi River access has strong recreational value ($1,800-$3,500/acre for hunting and recreation with river access). The ridge-top agricultural ground is good corn country at $5,000-$9,000/acre. The coulee and bluff land in between is harder to categorize and varies widely.</p>
+
+<h2>What This Means If You're Selling</h2>
+
+<p>If you're selling Bayfield County land and you're comparing your parcel to Madison metro prices, you're going to be disappointed. If you're selling Grant County coulee land and you're comparing it to Marathon County cropland, you're going to be confused about why it's not moving.</p>
+
+<p>The right comparable is always the same county, same land type, same buyer pool. That's what a real buyer is looking at. A cash buyer who specializes in Wisconsin land can tell you within 48 hours where your parcel sits in its specific market and what a reasonable offer looks like based on that.</p>
+
+<p>The specific numbers matter. A 40-acre parcel that a buyer values at $1,600/acre versus $1,200/acre is a $16,000 difference. Getting the category right is worth the conversation.</p>
+
+<h2>Why Noble Land Company Buys Across Wisconsin</h2>
+
+<p>We buy land across Wisconsin's diverse county markets, from Bayfield County timber tracts to Grant County ridge land to Marathon County rural acreage. We evaluate each parcel in its local context, not against statewide averages, and we explain our offer with specific reasoning: comparable sales, access factors, timber or recreational value, and what's limiting the buyer pool for that specific piece of ground.</p>
+
+<p>If you've been told your Wisconsin land is worth something and you're not sure the number is right, we'll give you our honest read on it. No cost to ask.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<p><strong>What's the biggest factor in Wisconsin land value?</strong><br />
+It depends entirely on the county and land type. In Bayfield County, recreational amenities and timber quality are primary. In Marathon County, soil productivity class and proximity to Wausau matter most. In Grant County, it's a mix of Driftless topography, access, and proximity to the Mississippi. There's no single answer that applies statewide.</p>
+
+<p><strong>Is timber value included in land price?</strong><br />
+Usually yes, in the sense that buyers price timber-stocked land higher than cutover land. But timber is not always appraised separately unless there's a formal timber cruise. A buyer who values your Bayfield County parcel will factor timber into the land offer rather than treating it as a separate negotiation.</p>
+
+<p><strong>Why is my Bayfield County land priced lower than land I see listed in Vilas County?</strong><br />
+Vilas County carries a brand premium from the Northwoods reputation, the Chain of Lakes, and the density of destination lakes that attract buyers from Chicago and the Twin Cities. Bayfield County has strong value but draws from a slightly different and somewhat smaller buyer pool. The gap is typically 10-20%, not dramatic, but real.</p>
+
+<p><strong>Does Noble Land Company buy in all Wisconsin counties?</strong><br />
+We buy across northern and western Wisconsin with particular focus on recreational timber counties (Bayfield, Sawyer, Oneida, Vilas, Price, Iron, Polk) and select agricultural and rural residential parcels in central and southern counties. Contact us with your county and parcel details and we'll tell you if it's a fit.</p>
+
+<h2>Get a County-Specific Offer</h2>
+
+<p>If you own land in Wisconsin and want to know what a buyer actually sees when they look at your parcel, start with a conversation. We'll look at your county, your acreage, your access situation, and your land type and give you a number with reasoning, not just a take-it-or-leave-it figure.</p>
+
+<p><a href="/we-buy-land-wisconsin">See how Noble Land Company buys Wisconsin land</a>, or <a href="/contact">request a free cash offer</a>. We respond within 48 hours.</p>`,
+  },
+  {
+    slug: "tennessee-delinquent-land-taxes-hamilton-county",
+    title: "Delinquent Land Taxes in Tennessee: What Happens and How to Get Out Before It's Too Late",
+    metaTitle: "Tennessee Delinquent Land Taxes | Hamilton County Timeline",
+    metaDescription: "Tennessee's tax delinquency process moves faster than most landowners expect. In Hamilton County, the foreclosure clock starts earlier than you think. Here's the full timeline.",
+    date: "2026-05-12",
+    state: "Tennessee",
+    excerpt: "Tennessee gives delinquent landowners a shorter runway than most states. In Hamilton County, the Chancery Court tax sale process can move from delinquency to forced sale faster than people expect. Understanding the timeline is not optional if you want to protect your equity.",
+    readingTime: "7 min read",
+    primaryKeyword: "delinquent land taxes Tennessee",
+    content: `
+<h1>Delinquent Land Taxes in Tennessee: What Happens and How to Get Out Before It's Too Late</h1>
+
+<p>Tennessee property owners who fall behind on land taxes tend to assume they have years to figure it out. That assumption is wrong, and it costs people real money every year.</p>
+
+<p>Tennessee does not use a tax lien certificate system the way Oklahoma or New Jersey does. There's no private investor buying your lien and giving you eight years to redeem. The process here runs through the court system, it moves on the court's schedule, and once a parcel enters the Chancery Court foreclosure pipeline in a county like Hamilton, the timeline to losing your property can be shorter than people assume.</p>
+
+<p>This is what actually happens, county by county, when Tennessee land taxes go unpaid, with Hamilton County (Chattanooga area) as the primary example.</p>
+
+<h2>The Core Problem: Tennessee's Tax Foreclosure Process</h2>
+
+<p>Property taxes in Tennessee are due October 1 and become delinquent March 1. The one-year window between due date and delinquency is the easy part. After March 1, interest starts accruing at 1.5% per month on Hamilton County unpaid balances. A $1,200 tax bill becomes roughly $1,308 by September if nothing is paid.</p>
+
+<p>After delinquency, the county has the legal authority to file a tax lien and, when it chooses, to file a suit in Chancery Court to enforce that lien through foreclosure. Tennessee counties can file these suits as early as one year after delinquency. Hamilton County, which manages a high-volume tax delinquency caseload for a metro county, files foreclosure suits on a regular rolling basis, not just once per year.</p>
+
+<p>Once the suit is filed, the landowner is served and a court date is set. If the delinquent taxes aren't paid before the court issues a judgment, the court orders a tax sale. In Hamilton County, these sales happen through the Clerk and Master's office. The property is advertised publicly, and investors bid at auction.</p>
+
+<p>The redemption period in Tennessee runs one year from the date of the tax sale judgment, not from the date of the original delinquency. That distinction matters. You can redeem the property during that year by paying the full amount owed plus interest and any costs the purchaser has incurred. After the one-year redemption period expires, the tax sale purchaser receives a deed and the original owner's claim is extinguished.</p>
+
+<p><strong>The practical timeline in Hamilton County for a typical rural or vacant land parcel:</strong></p>
+<ul>
+  <li>March 1, Year 1: Taxes become delinquent. Interest begins.</li>
+  <li>March-December, Year 1: County records the delinquency. No immediate action yet for most parcels.</li>
+  <li>Year 2: Hamilton County files a Chancery Court suit. You're served with process. This often catches landowners off guard.</li>
+  <li>Year 2-3: Court judgment issued. Clerk and Master schedules a sale. Sale occurs. A buyer purchases the tax lien at auction.</li>
+  <li>Year 3-4: One-year redemption period runs. If not redeemed, deed transfers to auction buyer.</li>
+</ul>
+
+<p>From first missed payment to losing the property: potentially three to four years. That's faster than most states. And it starts with a lawsuit, which is a harder thing to ignore than a tax bill.</p>
+
+<h2>Hamilton County Specifics</h2>
+
+<p>Hamilton County includes Chattanooga and its surrounding communities, Ooltewah, Collegedale, Signal Mountain, and the rural eastern portions bordering Bradley and Bledsoe counties. It's a metro county with a large Chancery Court docket and a well-organized delinquent tax process.</p>
+
+<p>Chattanooga has seen significant real estate appreciation over the past decade. Land in Hamilton County that was worth $20,000 in 2015 may be worth $55,000-$90,000 today depending on location and access. That appreciation makes tax-delinquent parcels attractive to investors at auction. It also means there's real equity for landowners to protect if they act before the sale.</p>
+
+<p>Hamilton County posts its delinquent tax list publicly. A parcel appearing on that list is one step closer to a Chancery Court filing. If your parcel shows up there and you're not paying attention, you may receive a lawsuit notice the next time you check your mail.</p>
+
+<p>Other Tennessee counties to know about: Shelby County (Memphis area) runs one of the highest-volume tax delinquency programs in the state, with a large number of urban and suburban parcels cycling through the system annually. Knox County (Knoxville) and Davidson County (Nashville) both file aggressively on delinquent parcels given land values in the metro areas. Montgomery County (Clarksville) has been more active in recent years as land values near Fort Campbell have risen. Rural counties like Bledsoe, Grundy, and Van Buren move more slowly but eventually follow the same process.</p>
+
+<h2>Your Options When Tennessee Taxes Are Delinquent</h2>
+
+<p><strong>Pay the full amount owed.</strong> The cleanest exit. Contact the Hamilton County Trustee's office for a payoff figure including penalties and interest. If a Chancery Court suit has already been filed, you may also owe court costs. Get the total number before assuming you know what it is. Penalties stack up faster than most people expect.</p>
+
+<p><strong>Sell the land before the court sale.</strong> A tax-delinquent parcel can be sold. The delinquent taxes get satisfied at closing from proceeds. If your Hamilton County land is worth $60,000 and you owe $7,500 in back taxes and penalties, you walk away with $52,500 minus closing costs. That's real money versus nothing after a tax sale. The time pressure is real: you need to close before a court judgment is entered or, at minimum, before the Clerk and Master schedules a sale date.</p>
+
+<p>Cash buyers who specialize in land can close in 2-3 weeks. That speed is meaningful when a court date is approaching. A traditional buyer with a mortgage can't close on a tax-delinquent parcel with a pending lawsuit, so if you're in this situation, a conventional listing is probably not going to solve it in time.</p>
+
+<p><strong>Redeem after the tax sale.</strong> If the parcel has already sold at auction, you have one year to redeem by paying the buyer's purchase price plus costs plus interest. This is an option if the sale just happened and you can put your hands on the money. After one year, the door closes permanently.</p>
+
+<p><strong>Contact the Hamilton County Chancery Court Clerk and Master.</strong> If a suit has been filed, the Clerk and Master's office (located in the Hamilton County Courthouse, Chattanooga) can tell you exactly where your parcel is in the process: whether a judgment has been entered, whether a sale date has been set, and what the current redemption payoff looks like. This is the call to make if you're not sure how far along the process is.</p>
+
+<h2>Why Noble Land Company Can Help</h2>
+
+<p>We buy land in Hamilton County and throughout Tennessee, including parcels in active delinquency and parcels where a Chancery Court suit has been filed but no judgment yet entered. We know how to work through the Tennessee delinquency process, how to get title cleared on a tax-distressed parcel, and how to close quickly enough to matter when a court date is on the calendar.</p>
+
+<p>We'll look at your parcel, tell you what it's worth to us, and explain how the tax payoff factors into the offer. You don't need to have the back taxes paid before we'll make an offer. We factor the payoff into the deal.</p>
+
+<h2>How It Works</h2>
+
+<p>Contact us with your parcel details: county, parcel ID or address, acreage, and a sense of what's owed in back taxes if you know it. We research the parcel, check the Hamilton County Chancery Court docket if applicable, and send a written offer within 48 hours.</p>
+
+<p>If you accept, we open title, coordinate with the trustee or Chancery Court clerk for a final payoff figure, and schedule closing with a licensed Tennessee title company. The taxes get paid from closing proceeds. You receive the balance by wire or check the day of closing.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<p><strong>Can I sell my land if a Chancery Court tax suit has been filed?</strong><br />
+Yes, as long as no judgment has been entered and the property hasn't been sold at auction. The delinquency and even the pending lawsuit can be resolved through a sale that pays the taxes at closing. Act before the judgment date.</p>
+
+<p><strong>How do I find out if my Hamilton County parcel has a tax suit filed against it?</strong><br />
+You can search Hamilton County Chancery Court records online at the Tennessee Administrative Office of the Courts case management system. You can also call the Hamilton County Clerk and Master's office directly.</p>
+
+<p><strong>What happens to the money I paid in previous years if I lose the property?</strong><br />
+It's gone. Prior tax payments are not refunded when a tax sale occurs. You lose the property and the prior payments. This is why protecting your equity before a sale matters more than the cost of the back taxes alone.</p>
+
+<p><strong>Does Noble Land Company buy in other Tennessee counties besides Hamilton?</strong><br />
+Yes. We buy throughout Tennessee, including Knox, Shelby, Montgomery, Bradley, McMinn, Marion, and rural counties across the eastern and middle regions of the state.</p>
+
+<h2>Don't Let the Clock Run Out</h2>
+
+<p>The Tennessee delinquency process doesn't announce itself clearly. A tax bill arrives. Then a notice. Then a lawsuit. Then a court date. By the time landowners realize what's happening, the window to protect their equity is often narrow. The people who come out ahead are the ones who get a handle on the timeline early and make a decision before a court judgment forces one for them.</p>
+
+<p>If you own land in Hamilton County or anywhere in Tennessee with delinquent taxes, find out exactly where you are in the process today. Then decide what to do with that information.</p>
+
+<p><a href="/we-buy-land-tennessee">See how Noble Land Company buys Tennessee land</a>, or <a href="/contact">request a free cash offer</a>. We respond within 48 hours and can work through tax-delinquent situations from the first call.</p>`,
+  },
+  {
+    slug: "north-carolina-tax-deed-sales-durham-county",
+    title: "North Carolina Tax Deed Sales: What Landowners Need to Know (And What Investors Are Buying)",
+    metaTitle: "NC Tax Deed Sales | Durham County Landowner Guide",
+    metaDescription: "North Carolina's tax deed process can strip landowners of their property in less time than most expect. Durham County runs one of the state's most active tax sale programs.",
+    date: "2026-05-12",
+    state: "North Carolina",
+    excerpt: "North Carolina handles tax delinquency through a court-ordered foreclosure process that can be faster than landowners expect, especially in active counties like Durham. If you own land in North Carolina with back taxes, understanding the timeline is the first step to protecting what you own.",
+    readingTime: "8 min read",
+    primaryKeyword: "North Carolina tax deed sales",
+    content: `
+<h1>North Carolina Tax Deed Sales: What Landowners Need to Know (And What Investors Are Buying)</h1>
+
+<p>North Carolina doesn't use a tax lien certificate system. There's no third-party investor buying your lien and giving you years to redeem. The state goes straight from delinquency to court-ordered foreclosure, and in high-activity counties like Durham, that process moves at a pace that surprises people who aren't paying attention.</p>
+
+<p>Tax deed sales in North Carolina are a significant part of the land investment market. Investors across the state track county tax sale calendars the way stock traders track earnings calls. They know the process, they have cash ready, and they understand the redemption rules. Landowners, by contrast, often find out about a tax sale when it's already happened. This guide gives you the same situational awareness investors have, before it matters.</p>
+
+<h2>The Core Problem: North Carolina's Tax Foreclosure Process</h2>
+
+<p>North Carolina property taxes are due September 1 and become delinquent January 6 of the following year. After January 6, interest accrues at 2% for the first month, then 0.75% per month afterward. These penalties are not trivial.</p>
+
+<p>The county's primary enforcement tool after delinquency is a foreclosure lawsuit filed in Superior Court under North Carolina General Statute 105-374. The county acts as the plaintiff. The landowner is the defendant. The county doesn't need to wait long before filing; it can file as soon as the taxes are delinquent. In practice, counties typically wait 12-24 months after delinquency before filing suit, but Durham County has been known to move faster given the volume of its tax base and the land values involved.</p>
+
+<p>Once the foreclosure suit is filed, a court order allows the county to sell the property at public auction. Buyers at auction receive a certificate of sale, not an immediate deed. North Carolina then provides a 10-day upset bid period: anyone can submit a higher bid within 10 days of the auction, and if a higher bid comes in, the process restarts with another 10-day window. Once the upset bid period closes with no higher bids, the final purchaser receives a tax deed.</p>
+
+<p>There is one important distinction in North Carolina: the original owner generally does not have a right of redemption after the sale. Unlike Tennessee's one-year redemption window or Oklahoma's five-year period, North Carolina's process ends at the deed issuance. Once that deed is issued to the tax sale buyer, the original landowner's claim is extinguished. There's no buying it back after the fact.</p>
+
+<p><strong>The timeline in Durham County for a typical vacant or rural land parcel:</strong></p>
+<ul>
+  <li>January 6, Year 1: Taxes officially delinquent. Penalties begin.</li>
+  <li>Months 6-18: Durham County tax department escalates the file. Lien notices sent. Some accounts sent to collection.</li>
+  <li>Year 2: Foreclosure suit filed in Durham County Superior Court. Landowner served with process.</li>
+  <li>Year 2-3: Court order issued authorizing sale. Property advertised. Auction held. 10-day upset bid period runs.</li>
+  <li>Year 3: Tax deed issued to final buyer. Original owner's interest is gone.</li>
+</ul>
+
+<p>From first missed payment to lost ownership: as few as two to three years in Durham County. This is not a slow process.</p>
+
+<h2>What Durham County Investors Are Actually Buying</h2>
+
+<p>Durham County has seen remarkable land and real estate appreciation over the past decade, driven by Research Triangle growth, Duke University's expanding footprint, and strong population inflow from Northern metros. A vacant parcel in Durham County that sold for $40,000 in 2015 might trade for $120,000-$200,000 today depending on size, location, and development potential.</p>
+
+<p>That appreciation is exactly why tax sale investors watch Durham County so carefully. A vacant lot that sells for $28,000 at a Durham County tax sale, covering the delinquent taxes plus a small premium, might be worth $85,000 or $120,000 on the open market. The investor gets a clean deed through the court process and immediately has a significant paper gain.</p>
+
+<p>What investors are typically buying at Durham County tax sales:</p>
+
+<p>Vacant infill lots in transitional neighborhoods where recent renovations and sales give the investor a clear comparable value. Heirs who inherited a lot and didn't know they owned it, or couldn't agree on what to do with it, often show up on the delinquency list. Investors know exactly which lots these are.</p>
+
+<p>Rural acreage on the Durham/Chatham or Durham/Orange county lines with road frontage and development potential. These parcels are valuable, and delinquent rural owners sometimes don't realize how much values have moved.</p>
+
+<p>Small commercial or mixed-use parcels in areas where the Durham development wave is heading next. These are the highest-competition sales, with multiple investors bidding and multiple upset bid rounds.</p>
+
+<h2>Your Options If You're Behind on Durham County Taxes</h2>
+
+<p><strong>Pay the full delinquent amount.</strong> The Durham County Tax Administration maintains online records of delinquent accounts. You can look up exactly what's owed, including penalties and interest, at any point in the delinquency. Pay the full amount and the lien is released. No sale occurs. This is the obvious move if you can do it.</p>
+
+<p><strong>Enter a payment plan.</strong> Durham County, like most North Carolina counties, can enter into installment payment agreements for delinquent taxes prior to a court order. These agreements require a down payment and monthly installments. If you fall behind on the plan, the county can accelerate the foreclosure. Contact the Durham County Tax Administration at (919) 560-0300 to discuss what's available.</p>
+
+<p><strong>Sell the land before the court order.</strong> This is the move that preserves the most equity. A tax-delinquent parcel in Durham County can be sold, and the delinquent taxes satisfied at closing. If your land is worth $95,000 and you owe $12,000 in back taxes and penalties, you net $83,000 minus normal closing costs. Compare that to $28,000-$35,000 at a tax sale auction where an investor picks it up below market and your claim is extinguished.</p>
+
+<p>The challenge: once a foreclosure suit is filed and a court date is approaching, the timeline for finding a buyer, negotiating, opening title, and closing gets very compressed. A conventional real estate listing that takes 60-90 days doesn't work if the court order can be issued in 30 days. Cash buyers who understand the process and can close in 2-3 weeks are the only viable option at that stage.</p>
+
+<p><strong>Submit an upset bid after the tax sale.</strong> If the property has already sold at auction, you can submit an upset bid during the 10-day period to acquire it yourself, or you can encourage a family member or trusted party to do so. You would need to outbid the existing bidder by at least 5% or $750, whichever is greater. This is an unusual tactic but legally available during the upset bid window.</p>
+
+<h2>Why Local Knowledge Matters in North Carolina Tax Sales</h2>
+
+<p>North Carolina tax deed sales produce clean title, which is one reason investors pursue them. The court process eliminates most prior liens and encumbrances when conducted properly. But "most" is not "all," and understanding exactly what a Durham County tax deed does and doesn't clear requires familiarity with North Carolina statutes and recent case law.</p>
+
+<p>Federal tax liens, for example, are not eliminated by a North Carolina tax deed sale without specific notice procedures being followed. An investor who buys a parcel at a Durham County tax sale without checking for federal liens may acquire property with an IRS encumbrance still attached. Experienced buyers know to check. Inexperienced ones learn the hard way.</p>
+
+<p>For landowners, the relevant knowledge is simpler: if you're in the process and considering a sale, make sure your buyer understands the timeline well enough to close before the court order locks the property into the tax sale pipeline.</p>
+
+<h2>How Noble Land Company Can Help</h2>
+
+<p>We buy land in Durham County and throughout North Carolina, including tax-delinquent parcels where a foreclosure suit has been filed but no court order yet entered. We know the North Carolina tax foreclosure statute, we know how to move quickly when a court date is approaching, and we've worked through enough delinquent-title situations to know what a clean closing looks like on this type of deal.</p>
+
+<p>We evaluate your parcel, make a written offer within 48 hours, and explain how the delinquent tax payoff factors into our number. You don't need to cure the delinquency before we'll engage. We factor it into the deal and handle coordination with Durham County Tax Administration at closing.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<p><strong>Does North Carolina have a redemption period after a tax sale?</strong><br />
+Not in the traditional sense. North Carolina does have the 10-day upset bid period during which higher bids can be submitted, but once the final deed issues, the original owner's redemption right is generally gone. Act before the sale, not after.</p>
+
+<p><strong>Can I sell my Durham County land if a foreclosure suit has been filed?</strong><br />
+Yes, as long as the court has not yet issued an order and the property is not yet in the sale pipeline. Once the court issues a sale order, it becomes significantly more complicated. Reach out to a buyer immediately if you know a suit has been filed.</p>
+
+<p><strong>What if my parcel is in another North Carolina county?</strong><br />
+The process is the same statewide under G.S. 105-374. Each county moves at its own pace: Wake and Mecklenburg counties are high-volume and can move quickly, while rural counties often take longer. Noble Land Company buys throughout North Carolina regardless of county.</p>
+
+<p><strong>Are tax deeds in North Carolina insurable?</strong><br />
+Yes, with the right title company and sufficient time. Most title insurers require a waiting period after a tax deed issues before they'll issue a standard policy. Some buyers hold tax deed property for a year or more before selling to allow standard title insurance to become available. This is a known quirk of the North Carolina tax sale market.</p>
+
+<p><strong>What if I inherited the property and don't want it?</strong><br />
+Sell it before the county does. Inherited land with delinquent taxes is one of the most common situations we work through. We can buy heir property in North Carolina, coordinate with all signing parties, and get the deal closed so you receive your share of the proceeds rather than the county receiving your parcel at auction.</p>
+
+<h2>Know Where You Stand Before It's Decided for You</h2>
+
+<p>North Carolina's tax foreclosure process is fast, court-driven, and final. Landowners who ignore the delinquency until they receive a lawsuit notice often have less time than they think to protect their equity. Durham County in particular moves at a pace that reflects the value of its land and the depth of investor interest in tax sale properties.</p>
+
+<p>If you own land in Durham County or anywhere in North Carolina with delinquent taxes, find out exactly where you are in the process today. Then decide quickly. The investors tracking the county's delinquency list are already watching your parcel. Make a decision before they do it for you.</p>
+
+<p><a href="/we-buy-land-north-carolina">See how Noble Land Company buys North Carolina land</a>, or <a href="/contact">request a free cash offer</a>. We respond within 48 hours and can work through tax-delinquent situations from the first conversation.</p>`,
+  },
 ];
 
 export function getBlogPost(slug: string): BlogPost | undefined {
